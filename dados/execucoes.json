@@ -1,64 +1,72 @@
 {
-  "ultimaExecucao": "2026-11-10T10:31:20.828Z",
+  "ultimaExecucao": "2026-11-10T10:35:11.485Z",
   "fontes": [
     {
       "fonte": "cnpq",
-      "inicio": "2026-11-10T10:29:40.809Z",
-      "fim": "2026-11-10T10:29:41.687Z",
+      "inicio": "2026-11-10T10:33:24.686Z",
+      "fim": "2026-11-10T10:33:25.544Z",
       "ok": true,
       "encontrados": 6,
       "comPrazo": 6
     },
     {
       "fonte": "capes",
-      "inicio": "2026-11-10T10:29:41.687Z",
-      "fim": "2026-11-10T10:30:11.493Z",
+      "inicio": "2026-11-10T10:33:25.544Z",
+      "fim": "2026-11-10T10:33:26.209Z",
       "ok": true,
       "encontrados": 34,
       "comPrazo": 31
     },
     {
       "fonte": "finep",
-      "inicio": "2026-11-10T10:30:11.493Z",
-      "fim": "2026-11-10T10:30:21.840Z",
-      "ok": true,
+      "inicio": "2026-11-10T10:34:56.799Z",
+      "fim": "2026-11-10T10:34:56.799Z",
+      "ok": false,
       "encontrados": 14,
-      "comPrazo": 12
+      "comPrazo": 0,
+      "erro": "page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://www.finep.gov.br/financiamento-nao-reembolsavel\", waiting until \"networkidle\"\n"
     },
     {
       "fonte": "embrapii",
-      "inicio": "2026-11-10T10:30:21.840Z",
-      "fim": "2026-11-10T10:30:31.595Z",
+      "inicio": "2026-11-10T10:34:56.799Z",
+      "fim": "2026-11-10T10:34:57.997Z",
       "ok": true,
       "encontrados": 11,
       "comPrazo": 6
     },
     {
       "fonte": "bndes",
-      "inicio": "2026-11-10T10:30:31.595Z",
-      "fim": "2026-11-10T10:31:12.603Z",
+      "inicio": "2026-11-10T10:34:57.997Z",
+      "fim": "2026-11-10T10:35:02.697Z",
       "ok": true,
       "encontrados": 3,
       "comPrazo": 0
     },
     {
       "fonte": "fapesp",
-      "inicio": "2026-11-10T10:31:12.603Z",
-      "fim": "2026-11-10T10:31:13.875Z",
+      "inicio": "2026-11-10T10:35:02.697Z",
+      "fim": "2026-11-10T10:35:04.143Z",
       "ok": true,
       "encontrados": 25,
       "comPrazo": 19
     },
     {
       "fonte": "fapesc",
-      "inicio": "2026-11-10T10:31:13.875Z",
-      "fim": "2026-11-10T10:31:20.798Z",
+      "inicio": "2026-11-10T10:35:04.143Z",
+      "fim": "2026-11-10T10:35:11.455Z",
       "ok": true,
       "encontrados": 5,
       "comPrazo": 4
     }
   ],
   "historico": [
+    {
+      "data": "2026-11-10T10:35:11.485Z",
+      "total": 98,
+      "falhas": [
+        "finep"
+      ]
+    },
     {
       "data": "2026-11-10T10:31:20.828Z",
       "total": 98,
