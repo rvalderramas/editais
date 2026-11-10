@@ -28,7 +28,21 @@ coletor/
     navegador.ts    Abre e fecha o navegador automatizado
     texto.ts        HTML para texto, normalização de links
 dados/              Fontes, editais, execuções e correções
+app/                Páginas do site (Next.js, App Router)
+  page.tsx          Início: régua de prazos e lista de editais
+  edital/[id]/      Página de cada edital, com a evidência da data
+  fontes/           Situação de cada fonte na última coleta
+  globals.css       Tokens de cor, tipo e espaço (claro e escuro)
+componentes/        Régua (servidor) e ListaEditais (navegador: busca e filtros)
+lib/                Leitura dos dados (servidor) e formatação de datas (compartilhada)
 ```
+
+## Site
+
+- Todas as páginas são geradas na publicação, a partir de `dados/`. Como cada coleta grava os dados no repositório, a Vercel republica o site todo dia, e a contagem de dias restantes é recalculada nessa hora.
+- Identidade: fonte Archivo (variável, hospedada no próprio site), larga nos títulos e números e normal no texto. Fundo cinza-esverdeado claro, tinta azul-ardósia, azul para links e prazos folgados, laranja-escuro para prazos de até 7 dias.
+- O elemento principal é a régua dos 90 dias; o resto da interface é contido.
+- Estilos: um arquivo `.module.css` por componente, todos usando os tokens de `globals.css`.
 
 ## Como a data de um edital é obtida
 

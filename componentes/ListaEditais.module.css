@@ -1,0 +1,211 @@
+.lista {
+  margin-top: var(--e-5);
+}
+
+.controles {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--e-3);
+  margin-bottom: var(--e-4);
+}
+
+.campo {
+  display: flex;
+  flex-direction: column;
+  gap: var(--e-1);
+  font-size: var(--t-1);
+  color: var(--tinta-suave);
+}
+
+.campo:first-child {
+  flex: 1 1 18rem;
+}
+
+.campo input,
+.campo select {
+  font: inherit;
+  font-size: var(--t-3);
+  color: var(--tinta);
+  background: var(--superficie);
+  border: 1px solid var(--linha-forte);
+  border-radius: var(--raio);
+  padding: 0.55rem 0.7rem;
+  min-height: 2.75rem;
+}
+
+.abas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--e-4);
+  border-bottom: 1px solid var(--linha);
+}
+
+.aba {
+  font: inherit;
+  font-size: var(--t-2);
+  background: none;
+  border: 0;
+  border-bottom: 3px solid transparent;
+  color: var(--tinta-suave);
+  padding: var(--e-2) 0;
+  margin-bottom: -1px;
+  cursor: pointer;
+}
+
+.aba[aria-selected='true'] {
+  color: var(--tinta);
+  font-weight: 700;
+  border-bottom-color: var(--tinta);
+}
+
+.contagem {
+  font-weight: 400;
+  color: var(--tinta-suave);
+}
+
+.itens {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Cada edital é uma linha: contador de dias | título | datas. */
+.item {
+  display: grid;
+  grid-template-columns: 6.5rem minmax(0, 1fr) 11rem;
+  gap: var(--e-4);
+  align-items: start;
+  padding: var(--e-4) 0;
+  border-bottom: 1px solid var(--linha);
+  scroll-margin-top: var(--e-4);
+}
+
+.item:target {
+  background: var(--azul-fundo);
+  box-shadow: 0 0 0 var(--e-2) var(--azul-fundo);
+}
+
+.prazo {
+  display: flex;
+  flex-direction: column;
+  line-height: 1;
+}
+
+.numero {
+  font-size: var(--t-6);
+  font-weight: 800;
+  font-variation-settings: 'wdth' 125;
+  letter-spacing: -0.02em;
+}
+
+.numeroMenor,
+.unidade {
+  font-size: var(--t-1);
+  color: var(--tinta-suave);
+  margin-top: var(--e-1);
+}
+
+.numeroMenor {
+  margin: 0 0 var(--e-1);
+}
+
+.numeroTexto {
+  font-size: var(--t-2);
+  font-weight: 600;
+  color: var(--tinta-suave);
+  line-height: 1.25;
+  padding-top: var(--e-1);
+}
+
+.urgente .numero,
+.urgente .numeroTexto {
+  color: var(--urgente);
+}
+
+.folga .numero {
+  color: var(--azul);
+}
+
+.orgao {
+  font-size: var(--t-1);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.titulo {
+  font-size: var(--t-3);
+  font-weight: 600;
+  font-variation-settings: 'wdth' 100;
+  line-height: 1.35;
+  margin-top: var(--e-1);
+  overflow-wrap: anywhere;
+  max-width: 62ch;
+}
+
+.titulo a {
+  color: var(--tinta);
+  text-decoration: none;
+}
+
+.titulo a:hover {
+  text-decoration: underline;
+}
+
+.detalhes {
+  margin: var(--e-2) 0 0;
+  font-size: var(--t-2);
+  color: var(--tinta-suave);
+  max-width: 62ch;
+}
+
+.alerta {
+  margin: var(--e-2) 0 0;
+  font-size: var(--t-1);
+  color: var(--aviso);
+  background: var(--aviso-fundo);
+  display: inline-block;
+  padding: 0.15rem 0.5rem;
+  border-radius: var(--raio);
+}
+
+.datas {
+  display: flex;
+  flex-direction: column;
+  gap: var(--e-1);
+  font-size: var(--t-2);
+  text-align: right;
+  padding-top: var(--e-1);
+}
+
+.inicio {
+  color: var(--tinta-suave);
+  font-size: var(--t-1);
+}
+
+.vazio {
+  padding: var(--e-5) 0;
+  color: var(--tinta-suave);
+}
+
+@media (max-width: 40rem) {
+  .abas {
+    gap: 0 var(--e-3);
+  }
+
+  .item {
+    grid-template-columns: 4.5rem minmax(0, 1fr);
+    gap: var(--e-2) var(--e-3);
+  }
+
+  .numero {
+    font-size: var(--t-5);
+  }
+
+  .datas {
+    grid-column: 2;
+    text-align: left;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0 var(--e-3);
+  }
+}

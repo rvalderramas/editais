@@ -1,0 +1,138 @@
+.regua {
+  margin: var(--e-5) 0 0;
+}
+
+.legenda {
+  font-size: var(--t-2);
+  color: var(--tinta-suave);
+  margin-bottom: var(--e-2);
+}
+
+/* Em telas estreitas a régua rola dentro do próprio quadro. O espaço extra no topo
+   evita que as dicas sejam cortadas pela área de rolagem. */
+@media (max-width: 44rem) {
+  .rolagem {
+    overflow-x: auto;
+    padding-top: 6rem;
+    margin-top: -6rem;
+    padding-bottom: var(--e-2);
+  }
+}
+
+.faixa {
+  --altura-linha: 1.35rem;
+  position: relative;
+  min-width: 40rem;
+  height: calc(var(--altura-linha) * 4 + 3rem);
+  border-bottom: 2px solid var(--tinta);
+  /* Traços de cada semana ao longo da base. */
+  background-image: repeating-linear-gradient(
+    to right,
+    var(--linha-forte) 0 1px,
+    transparent 1px calc(100% / 90 * 7)
+  );
+  background-size: 100% 0.6rem;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  margin-right: var(--e-3);
+}
+
+.hoje,
+.mes {
+  position: absolute;
+  top: 0;
+  font-size: var(--t-1);
+  color: var(--tinta-suave);
+  padding-left: var(--e-1);
+  border-left: 1px solid var(--linha-forte);
+  height: 100%;
+  line-height: 1;
+}
+
+.hoje {
+  color: var(--tinta);
+  font-weight: 700;
+  border-left: 2px solid var(--tinta);
+}
+
+.marcas {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.marca {
+  position: absolute;
+  bottom: calc(var(--linha) * var(--altura-linha) + 0.5rem);
+  transform: translateX(-50%);
+}
+
+.alvo {
+  display: block;
+  width: 0.85rem;
+  height: 0.85rem;
+  border-radius: 50%;
+  background: var(--azul);
+  border: 2px solid var(--fundo);
+  position: relative;
+}
+
+.proximo .alvo {
+  background: var(--tinta);
+}
+
+.urgente .alvo {
+  background: var(--urgente);
+}
+
+.dica {
+  display: none;
+  position: absolute;
+  bottom: calc(100% + 0.5rem);
+  left: 50%;
+  transform: translateX(-50%);
+  width: 16rem;
+  padding: var(--e-2) var(--e-3);
+  background: var(--tinta);
+  color: var(--fundo);
+  border-radius: var(--raio);
+  font-size: var(--t-1);
+  line-height: 1.35;
+  z-index: 2;
+}
+
+.dica > * {
+  display: block;
+}
+
+.dicaData {
+  margin-top: var(--e-1);
+  opacity: 0.8;
+}
+
+.alvo:hover .dica,
+.alvo:focus-visible .dica {
+  display: block;
+}
+
+.alvo:hover,
+.alvo:focus-visible {
+  box-shadow: 0 0 0 3px var(--azul-fundo);
+}
+
+/* Perto das bordas, a dica se alinha para dentro da régua. */
+.inicio .dica {
+  left: -0.5rem;
+  transform: none;
+}
+
+.final .dica {
+  left: auto;
+  right: -0.5rem;
+  transform: none;
+}
+
+.marca:hover,
+.marca:focus-within {
+  z-index: 3;
+}

@@ -1,0 +1,137 @@
+/* Tokens de cor, tipo e espaço. Todos os componentes usam estes nomes. */
+:root {
+  --fundo: #f2f4f1;
+  --superficie: #fbfcfa;
+  --tinta: #1d2b3a;
+  --tinta-suave: #556373;
+  --linha: #cdd4cd;
+  --linha-forte: #9aa59c;
+  --azul: #2a4bd7;
+  --azul-fundo: #e3e8fb;
+  --urgente: #b93a0c;
+  --urgente-fundo: #fbe7dc;
+  --aberta: #2b7148;
+  --aviso: #8a5a00;
+  --aviso-fundo: #fbf0d6;
+
+  --fonte: 'Archivo Variable', system-ui, sans-serif;
+  --largo: 118; /* largura (wdth) da Archivo para títulos e números */
+
+  --t-1: 0.8125rem;
+  --t-2: 0.9375rem;
+  --t-3: 1.0625rem;
+  --t-4: 1.375rem;
+  --t-5: 2rem;
+  --t-6: 2.75rem;
+
+  --e-1: 0.25rem;
+  --e-2: 0.5rem;
+  --e-3: 1rem;
+  --e-4: 1.5rem;
+  --e-5: 2.5rem;
+  --e-6: 4rem;
+
+  --largura: 72rem;
+  --raio: 3px;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --fundo: #121a22;
+    --superficie: #18222c;
+    --tinta: #e4e9ee;
+    --tinta-suave: #9aa8b5;
+    --linha: #2c3a47;
+    --linha-forte: #4a5b6b;
+    --azul: #8ea3ff;
+    --azul-fundo: #222d55;
+    --urgente: #ff8a5c;
+    --urgente-fundo: #3b2218;
+    --aberta: #6fcf97;
+    --aviso: #f0c060;
+    --aviso-fundo: #352a12;
+    color-scheme: dark;
+  }
+}
+
+:root[data-theme='dark'] {
+  --fundo: #121a22;
+  --superficie: #18222c;
+  --tinta: #e4e9ee;
+  --tinta-suave: #9aa8b5;
+  --linha: #2c3a47;
+  --linha-forte: #4a5b6b;
+  --azul: #8ea3ff;
+  --azul-fundo: #222d55;
+  --urgente: #ff8a5c;
+  --urgente-fundo: #3b2218;
+  --aberta: #6fcf97;
+  --aviso: #f0c060;
+  --aviso-fundo: #352a12;
+  color-scheme: dark;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--fundo);
+  color: var(--tinta);
+  font-family: var(--fonte);
+  font-size: var(--t-3);
+  line-height: 1.5;
+  font-variant-numeric: tabular-nums;
+}
+
+a {
+  color: var(--azul);
+  text-underline-offset: 0.18em;
+}
+
+:focus-visible {
+  outline: 2px solid var(--azul);
+  outline-offset: 2px;
+  border-radius: var(--raio);
+}
+
+h1,
+h2,
+h3 {
+  font-stretch: calc(var(--largo) * 1%);
+  font-variation-settings: 'wdth' var(--largo);
+  line-height: 1.15;
+  margin: 0;
+}
+
+.envoltorio {
+  max-width: var(--largura);
+  margin: 0 auto;
+  padding: 0 var(--e-3);
+}
+
+.oculto-visualmente {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}

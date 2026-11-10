@@ -1,0 +1,87 @@
+.fontes {
+  padding-top: var(--e-5);
+}
+
+.titulo {
+  font-size: var(--t-5);
+  font-weight: 800;
+}
+
+.texto {
+  margin: var(--e-3) 0 var(--e-5);
+  max-width: 65ch;
+  color: var(--tinta-suave);
+}
+
+.tabela {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--t-2);
+}
+
+.tabela th,
+.tabela td {
+  text-align: left;
+  padding: var(--e-3) var(--e-3) var(--e-3) 0;
+  border-bottom: 1px solid var(--linha);
+  vertical-align: top;
+}
+
+.tabela thead th {
+  font-size: var(--t-1);
+  font-weight: 600;
+  color: var(--tinta-suave);
+}
+
+.tabela tbody th {
+  font-weight: 700;
+}
+
+.tabela tbody th span {
+  display: block;
+  font-weight: 400;
+  color: var(--tinta-suave);
+  font-size: var(--t-1);
+}
+
+.ok {
+  color: var(--aberta);
+}
+
+.falha {
+  color: var(--urgente);
+}
+
+@media (max-width: 40rem) {
+  .tabela thead {
+    display: none;
+  }
+
+  .tabela tr {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border-bottom: 1px solid var(--linha);
+    padding: var(--e-3) 0;
+  }
+
+  .tabela th,
+  .tabela td {
+    border: 0;
+    padding: var(--e-1) 0;
+  }
+
+  .tabela tbody th,
+  .tabela td:last-child {
+    grid-column: 1 / -1;
+  }
+
+  .tabela td:nth-of-type(1)::before {
+    content: 'Editais: ';
+    color: var(--tinta-suave);
+  }
+
+  .tabela td:nth-of-type(2)::before {
+    content: 'Com prazo: ';
+    color: var(--tinta-suave);
+  }
+}

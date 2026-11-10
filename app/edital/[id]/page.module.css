@@ -1,0 +1,133 @@
+.edital {
+  padding-top: var(--e-4);
+}
+
+.edital h2 {
+  font-size: var(--t-4);
+  font-weight: 700;
+  margin-bottom: var(--e-3);
+}
+
+.voltar {
+  font-size: var(--t-2);
+}
+
+.orgao {
+  margin: var(--e-5) 0 var(--e-2);
+  font-size: var(--t-2);
+  font-weight: 600;
+  color: var(--tinta-suave);
+}
+
+.titulo {
+  font-size: clamp(var(--t-4), 4vw, var(--t-5));
+  font-weight: 800;
+  overflow-wrap: anywhere;
+  max-width: 30ch;
+}
+
+.situacao {
+  margin: var(--e-4) 0 0;
+  font-size: var(--t-4);
+  font-weight: 600;
+  max-width: 44ch;
+  line-height: 1.3;
+}
+
+.aberta {
+  color: var(--aberta);
+}
+
+.encerrada,
+.sem-prazo {
+  color: var(--tinta-suave);
+}
+
+.alerta {
+  margin: var(--e-3) 0 0;
+  padding: var(--e-2) var(--e-3);
+  background: var(--aviso-fundo);
+  color: var(--aviso);
+  border-radius: var(--raio);
+  max-width: 60ch;
+  font-size: var(--t-2);
+}
+
+.acoes {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--e-3) var(--e-4);
+  margin-top: var(--e-4);
+}
+
+.botao {
+  display: inline-block;
+  background: var(--tinta);
+  color: var(--fundo);
+  text-decoration: none;
+  font-weight: 600;
+  padding: 0.7rem 1.1rem;
+  border-radius: var(--raio);
+}
+
+.botao:hover {
+  background: var(--azul);
+}
+
+/* O bloco de evidência é o que diferencia o site: a data vem com a prova. */
+.evidencia {
+  margin-top: var(--e-5);
+  padding: var(--e-4);
+  background: var(--superficie);
+  border-left: 4px solid var(--azul);
+  max-width: 48rem;
+}
+
+.evidencia p {
+  margin: 0;
+}
+
+.evidencia blockquote {
+  margin: var(--e-3) 0;
+  padding: 0;
+  font-size: var(--t-4);
+  line-height: 1.4;
+  font-weight: 500;
+  max-width: 50ch;
+  overflow-wrap: anywhere;
+}
+
+.evidencia blockquote::before {
+  content: '“';
+}
+
+.evidencia blockquote::after {
+  content: '”';
+}
+
+.resumo {
+  margin-top: var(--e-5);
+  max-width: 65ch;
+}
+
+.resumo p {
+  margin: 0;
+}
+
+.ficha {
+  margin: var(--e-5) 0 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
+  gap: var(--e-3) var(--e-4);
+  max-width: 48rem;
+}
+
+.ficha dt {
+  font-size: var(--t-1);
+  color: var(--tinta-suave);
+}
+
+.ficha dd {
+  margin: 0;
+}

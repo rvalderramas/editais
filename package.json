@@ -1,22 +1,33 @@
 {
   "name": "editais",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "type": "module",
   "description": "Coleta diária de editais de fomento à pesquisa no Brasil",
   "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
     "coletar": "tsx coletor/index.ts",
     "coletar:fonte": "tsx coletor/index.ts --fonte",
     "testar": "tsx --test coletor/**/*.test.ts"
   },
-  "engines": { "node": ">=22" },
+  "engines": {
+    "node": ">=22"
+  },
   "dependencies": {
+    "@fontsource-variable/archivo": "^5.3.0",
     "cheerio": "1.2.0",
+    "next": "16.4.3",
     "playwright": "1.63.0",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
     "unpdf": "1.6.0"
   },
   "devDependencies": {
     "@types/node": "22.15.0",
+    "@types/react": "19.2.7",
+    "@types/react-dom": "19.2.3",
     "tsx": "4.20.3",
     "typescript": "5.8.3"
   }

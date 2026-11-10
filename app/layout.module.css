@@ -1,0 +1,29 @@
+.topo {
+  border-bottom: 1px solid var(--linha);
+}
+
+.topoInterno {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--e-3);
+  padding-top: var(--e-3);
+  padding-bottom: var(--e-3);
+  font-size: var(--t-2);
+}
+
+.marca {
+  color: var(--tinta);
+  text-decoration: none;
+  font-weight: 700;
+  font-size: var(--t-3);
+  font-variation-settings: 'wdth' var(--largo);
+}
+
+.rodape {
+  margin-top: var(--e-6);
+  padding: var(--e-4) 0 var(--e-5);
+  border-top: 1px solid var(--linha);
+  color: var(--tinta-suave);
+  font-size: var(--t-1);
+}

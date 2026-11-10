@@ -1,0 +1,18 @@
+.abertura {
+  padding-top: var(--e-5);
+}
+
+.titulo {
+  font-size: clamp(var(--t-5), 6vw, 3.5rem);
+  font-weight: 800;
+  font-variation-settings: 'wdth' 125;
+  letter-spacing: -0.015em;
+  max-width: 16ch;
+}
+
+.resumo {
+  margin: var(--e-3) 0 0;
+  font-size: var(--t-3);
+  color: var(--tinta-suave);
+  max-width: 60ch;
+}

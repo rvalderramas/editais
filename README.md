@@ -11,7 +11,12 @@ Acompanhamento diário de editais de fomento à pesquisa no Brasil. Um robô vis
 - Alerta quando a fonte apresenta um edital como aberto, mas o prazo encontrado já passou.
 - Registro do resultado de cada fonte a cada coleta (quantidade, erros).
 
-Ainda não existe o site público nem a área de administração. Veja `roadmap.md`.
+- Site público (Next.js, para publicar na Vercel):
+  - página inicial com a régua dos prazos dos próximos 90 dias e a lista de editais, com busca, filtro por órgão e abas por situação;
+  - página de cada edital, com o trecho de onde a data foi tirada e o link para o texto original;
+  - página "Fontes e coleta", com o resultado da última coleta de cada órgão.
+
+Ainda não existe a área de administração. Veja `roadmap.md`.
 
 ## Onde estão os dados
 
@@ -36,4 +41,9 @@ npx playwright install chromium
 npm run testar
 npm run coletar
 npm run coletar:fonte -- cnpq
+npm run dev        (site em http://localhost:3000)
 ```
+
+## Publicar na Vercel
+
+No painel da Vercel, escolha **Add New… > Project**, importe o repositório `editais` e clique em **Deploy**, sem mudar nenhuma configuração. A cada coleta diária o GitHub recebe os dados novos e a Vercel republica o site sozinha.
