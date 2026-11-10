@@ -46,7 +46,12 @@ export async function finep(fonte: Fonte): Promise<ItemLista[]> {
 
   try {
     for (const url of c.paginas) {
-      await pagina.goto(url, { waitUntil: 'networkidle', timeout: 90_000 });
+      // Não espera a página inteira (vídeos e banners podem demorar ou falhar):
+      // basta a primeira resposta com chamadas e alguns segundos para as demais.
+      const lista = pagina.waitForResponse((r) => r.url().includes('/o/c/chamadapublicas'), { timeout: 90_000 });
+      await pagina.goto(url, { waitUntil: 'domcontentloaded', timeout: 90_000 });
+      await lista;
+      await pagina.waitForTimeout(8_000);
     }
   } finally {
     await pagina.close();
