@@ -1,5 +1,5 @@
 {
-  "ultimaExecucao": "2026-11-10T10:35:11.485Z",
+  "ultimaExecucao": "2026-11-10T10:38:07.304Z",
   "fontes": [
     {
       "fonte": "cnpq",
@@ -19,12 +19,11 @@
     },
     {
       "fonte": "finep",
-      "inicio": "2026-11-10T10:34:56.799Z",
-      "fim": "2026-11-10T10:34:56.799Z",
-      "ok": false,
+      "inicio": "2026-11-10T10:37:56.154Z",
+      "fim": "2026-11-10T10:38:07.274Z",
+      "ok": true,
       "encontrados": 14,
-      "comPrazo": 0,
-      "erro": "page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://www.finep.gov.br/financiamento-nao-reembolsavel\", waiting until \"networkidle\"\n"
+      "comPrazo": 12
     },
     {
       "fonte": "embrapii",
@@ -60,6 +59,11 @@
     }
   ],
   "historico": [
+    {
+      "data": "2026-11-10T10:38:07.304Z",
+      "total": 98,
+      "falhas": []
+    },
     {
       "data": "2026-11-10T10:35:11.485Z",
       "total": 98,
