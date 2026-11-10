@@ -1,0 +1,63 @@
+# Coleta diária dos editais. Roda todo dia às 6h (horário de Brasília) e também
+# pode ser disparada à mão na aba "Actions" do GitHub (botão "Run workflow").
+name: Coleta de editais
+
+on:
+  schedule:
+    - cron: '7 9 * * *' # 09:07 UTC = 06:07 em Brasília
+  workflow_dispatch:
+    inputs:
+      fonte:
+        description: 'Coletar só uma fonte (id em dados/fontes.json). Deixe vazio para todas.'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: coleta
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Instalar navegador (usado pela FINEP)
+        run: npx playwright install --with-deps chromium
+
+      - name: Testar extração de datas
+        run: npm run testar
+
+      - name: Coletar
+        env:
+          FONTE: ${{ inputs.fonte }}
+        run: |
+          if [ -n "$FONTE" ]; then
+            npm run coletar:fonte -- "$FONTE"
+          else
+            npm run coletar
+          fi
+
+      - name: Gravar resultados
+        run: |
+          git config user.name "coleta-automatica"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dados/
+          if git diff --cached --quiet; then
+            echo "Nenhuma mudança nos dados."
+          else
+            git commit -m "Coleta de $(TZ=America/Sao_Paulo date +%d/%m/%Y)"
+            git push
+          fi

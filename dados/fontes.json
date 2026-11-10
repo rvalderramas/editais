@@ -1,0 +1,121 @@
+[
+  {
+    "id": "cnpq",
+    "sigla": "CNPq",
+    "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+    "ativa": true,
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "leitor": "html-itens",
+    "config": {
+      "item": "div.item",
+      "titulo": "h2 a.summary",
+      "texto": "#parent-fieldname-text",
+      "publicado": ".documentPublished .value"
+    },
+    "detalhe": {
+      "pagina": true
+    }
+  },
+  {
+    "id": "capes",
+    "sigla": "CAPES",
+    "nome": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+    "ativa": true,
+    "url": "https://www.gov.br/capes/pt-br/assuntos/editais-e-resultados-capes",
+    "leitor": "html-blocos",
+    "config": {
+      "inicio": "Editais Abertos</h2>",
+      "fim": "</ul>",
+      "separador": "(?=<li\\b)",
+      "titulo": "a",
+      "situacao": "Edital aberto"
+    },
+    "detalhe": {
+      "pagina": true,
+      "pdf": "^(edital|chamada)"
+    }
+  },
+  {
+    "id": "finep",
+    "sigla": "FINEP",
+    "nome": "Financiadora de Estudos e Projetos",
+    "ativa": true,
+    "url": "https://www.finep.gov.br/financiamento-nao-reembolsavel",
+    "leitor": "finep",
+    "config": {
+      "paginas": [
+        "https://www.finep.gov.br/financiamento-nao-reembolsavel"
+      ],
+      "modeloLink": "https://www.finep.gov.br/e/chamada-publica/222684/{id}"
+    }
+  },
+  {
+    "id": "embrapii",
+    "sigla": "EMBRAPII",
+    "nome": "Empresa Brasileira de Pesquisa e Inovação Industrial",
+    "ativa": true,
+    "url": "https://embrapii.org.br/transparencia/",
+    "leitor": "html-itens",
+    "config": {
+      "item": ".single-chamada-publica",
+      "titulo": ".title-single-chamada-publica",
+      "link": "a.link-ver-documento"
+    },
+    "filtros": {
+      "ignorarTitulo": "resultado",
+      "anoMinimo": 2025
+    },
+    "detalhe": {
+      "pagina": true,
+      "pdf": "chamada"
+    }
+  },
+  {
+    "id": "bndes",
+    "sigla": "BNDES",
+    "nome": "Banco Nacional de Desenvolvimento Econômico e Social",
+    "ativa": true,
+    "url": "https://www.bndes.gov.br/chamadadeinovacao",
+    "leitor": "html-blocos",
+    "config": {
+      "inicio": "Chamadas em andamento",
+      "fim": "Chamadas já realizadas",
+      "separador": "(?=<h4\\b)",
+      "titulo": "h4",
+      "situacao": "Em andamento"
+    },
+    "detalhe": {
+      "pagina": true
+    }
+  },
+  {
+    "id": "fapesp",
+    "sigla": "FAPESP",
+    "nome": "Fundação de Amparo à Pesquisa do Estado de São Paulo",
+    "ativa": true,
+    "url": "https://fapesp.br/chamadas/",
+    "leitor": "html-blocos",
+    "config": {
+      "inicio": "Abertas (Todas) </b>",
+      "fim": "Chamadas Próprias",
+      "separador": "<hr\\b[^>]*>",
+      "titulo": "h3 a",
+      "campos": {
+        "area": "^[ÁA]reas?:\\s*(.+)$",
+        "modalidade": "^Modalidades?:\\s*(.+)$"
+      }
+    }
+  },
+  {
+    "id": "fapesc",
+    "sigla": "FAPESC",
+    "nome": "Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina",
+    "ativa": true,
+    "url": "https://fapesc.sc.gov.br/chamadas-abertas/",
+    "leitor": "wordpress",
+    "config": {
+      "site": "https://fapesc.sc.gov.br",
+      "categoria": "chamadas-abertas"
+    }
+  }
+]

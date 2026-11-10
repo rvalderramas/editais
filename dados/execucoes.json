@@ -1,0 +1,68 @@
+{
+  "ultimaExecucao": "2026-11-10T10:31:20.828Z",
+  "fontes": [
+    {
+      "fonte": "cnpq",
+      "inicio": "2026-11-10T10:29:40.809Z",
+      "fim": "2026-11-10T10:29:41.687Z",
+      "ok": true,
+      "encontrados": 6,
+      "comPrazo": 6
+    },
+    {
+      "fonte": "capes",
+      "inicio": "2026-11-10T10:29:41.687Z",
+      "fim": "2026-11-10T10:30:11.493Z",
+      "ok": true,
+      "encontrados": 34,
+      "comPrazo": 31
+    },
+    {
+      "fonte": "finep",
+      "inicio": "2026-11-10T10:30:11.493Z",
+      "fim": "2026-11-10T10:30:21.840Z",
+      "ok": true,
+      "encontrados": 14,
+      "comPrazo": 12
+    },
+    {
+      "fonte": "embrapii",
+      "inicio": "2026-11-10T10:30:21.840Z",
+      "fim": "2026-11-10T10:30:31.595Z",
+      "ok": true,
+      "encontrados": 11,
+      "comPrazo": 6
+    },
+    {
+      "fonte": "bndes",
+      "inicio": "2026-11-10T10:30:31.595Z",
+      "fim": "2026-11-10T10:31:12.603Z",
+      "ok": true,
+      "encontrados": 3,
+      "comPrazo": 0
+    },
+    {
+      "fonte": "fapesp",
+      "inicio": "2026-11-10T10:31:12.603Z",
+      "fim": "2026-11-10T10:31:13.875Z",
+      "ok": true,
+      "encontrados": 25,
+      "comPrazo": 19
+    },
+    {
+      "fonte": "fapesc",
+      "inicio": "2026-11-10T10:31:13.875Z",
+      "fim": "2026-11-10T10:31:20.798Z",
+      "ok": true,
+      "encontrados": 5,
+      "comPrazo": 4
+    }
+  ],
+  "historico": [
+    {
+      "data": "2026-11-10T10:31:20.828Z",
+      "total": 98,
+      "falhas": []
+    }
+  ]
+}

@@ -1,0 +1,1913 @@
+{
+  "atualizadoEm": "2026-11-10T10:31:20.826Z",
+  "editais": [
+    {
+      "id": "capes-0645ed6c3b",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa Bolsas para Pesquisa CAPES/Humboldt",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/alemanha/programa-bolsas-para-pesquisa-capeshumboldt",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/resultados-dos-editais/08062022_Lista_Listagem_1727316_Humboldt.pdf/@@display-file/file",
+      "inscricoesFim": "2022-05-23",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/alemanha/programa-bolsas-para-pesquisa-capeshumboldt",
+        "trecho": "Inscrições da CAPES: Até às 17:00 do dia 23 de Maio de 2022"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "embrapii-8db4a4afde",
+      "fonte": "embrapii",
+      "orgao": "EMBRAPII",
+      "titulo": "BASIC FUNDING ALLIANCE em Saúde",
+      "link": "https://embrapii.org.br/chamadas-publicas/basic-funding-alliance-em-saude/",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "inscricoesFim": "2022-12-27",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://embrapii.org.br/chamadas-publicas/basic-funding-alliance-em-saude/",
+        "trecho": "Apresentação de Propostas de BASIC FUNDING ALLIANCE – Saúde 27/12/2022"
+      }
+    },
+    {
+      "id": "capes-3582e5c0cd",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Projetos de Cooperação entre Instituições para Qualificação de Profissionais de Nível Superior (PCI)",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/avaliacao/sistema-nacional-de-pos-graduacao-snpg/pci",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2878169_edital_24_2026___pci.pdf/@@display-file/file",
+      "inscricoesFim": "2024-09-17",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/avaliacao/sistema-nacional-de-pos-graduacao-snpg/pci",
+        "trecho": "envio de Proposta de Projeto de Cooperação entre Instituições para Qualificação de Profissionais de Nível Superior (PCI) - formato, pdf, 51kb 17/09/2024"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "embrapii-5e32a4c45a",
+      "fonte": "embrapii",
+      "orgao": "EMBRAPII",
+      "titulo": "Chamada Pública Unidades Embrapii nº 01/2025",
+      "link": "https://embrapii.org.br/chamadas-publicas/chamada-publica-unidades-embrapii-no-01-2025/",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "inscricoesFim": "2025-10-17",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://embrapii.org.br/chamadas-publicas/chamada-publica-unidades-embrapii-no-01-2025/",
+        "trecho": "Submissão da proposta de credenciamento (Etapa 2) 17/10/2025"
+      }
+    },
+    {
+      "id": "embrapii-0813c63fce",
+      "fonte": "embrapii",
+      "orgao": "EMBRAPII",
+      "titulo": "Chamada Pública Unidades Embrapii nº 03/2025",
+      "link": "https://embrapii.org.br/chamadas-publicas/chamada-publica-unidades-embrapii-no-03-2025/",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "inscricoesFim": "2026-01-30",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://embrapii.org.br/chamadas-publicas/chamada-publica-unidades-embrapii-no-03-2025/",
+        "trecho": "Submissão da proposta de credenciamento (Etapa 1) 30/01/2026"
+      }
+    },
+    {
+      "id": "capes-d3eb8db8be",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Política de Novação para Bolsistas e Ex-bolsistas no Exterior",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/politica-de-novacao-para-bolsistas-e-ex-bolsistas-no-exterior",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2878184_edital_26_2025___alteracao.pdf/@@display-file/file",
+      "inscricoesFim": "2026-02-05",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/politica-de-novacao-para-bolsistas-e-ex-bolsistas-no-exterior",
+        "trecho": "inscrição on-line e envio da documentação obrigatória (https://inscricao.capes.gov.br/) Até às 17h do dia 05 de fevereiro de 2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "embrapii-614bc322df",
+      "fonte": "embrapii",
+      "orgao": "EMBRAPII",
+      "titulo": "Chamada Pública para Capacitação em Maturidade para Grupos de Pesquisa em ICTs da Região Norte n°01/2026",
+      "link": "https://embrapii.org.br/chamadas-publicas/chamada-publica-para-capacitacao-em-maturidade-para-grupos-de-pesquisa-em-icts-da-regiao-norte-n01-2026/",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "inscricoesFim": "2026-02-20",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://embrapii.org.br/chamadas-publicas/chamada-publica-para-capacitacao-em-maturidade-para-grupos-de-pesquisa-em-icts-da-regiao-norte-n01-2026/",
+        "trecho": "Submissão da proposta 20/02/2026"
+      }
+    },
+    {
+      "id": "capes-e5c40d66db",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa Caminhos Amefricanos",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-caminhos-amefricanos",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/resultados-dos-editais/edital_2912738_sei_2911020_edital_conjunto_1_2026___retificacao_ii.pdf/@@display-file/file",
+      "inscricoesFim": "2026-03-02",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-caminhos-amefricanos",
+        "trecho": "inscrição de projetos on-line e envio da documentação obrigatória (https://inscricao.capes.gov.br/). Até às 17h do dia 02 de março de 2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "finep-10b02fbf0a",
+      "fonte": "finep",
+      "orgao": "FINEP",
+      "titulo": "Finep Mais Inovação Brasil - Rodada 2 - Subvenção Econômica Regional",
+      "link": "https://www.finep.gov.br/e/chamada-publica/222684/755080",
+      "resumo": "Esta Seleção Pública objetiva conceder recursos de subvenção econômica para o desenvolvimento de produtos, processos ou serviços inovadores que envolvam risco tecnológico em projetos realizados nas regiões Nordeste, Norte e Centro-Oeste, apoiando atividades que se encontrem entre os níveis de maturidade tecnológica (TRL) 3 a 9. Essas iniciativas devem estar obrigatoriamente estar alinhadas às…",
+      "publicadoEm": "2026-02-06",
+      "situacaoFonte": "Encerrada",
+      "publico": [
+        "Startup",
+        "Receita: até R$ 4,8 Mi",
+        "Receita: R$ 4,8 Mi - R$ 16,0 Mi",
+        "Receita: R$ 16,0 Mi - R$ 90,0 Mi",
+        "Receita: R$ 90,0 Mi - R$ 300,0 Mi",
+        "Receita: maior que R$ 300,0 Mi",
+        "Cooperativa"
+      ],
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesInicio": "2026-02-06",
+      "inscricoesFim": "2026-04-09",
+      "evidencia": {
+        "origem": "api",
+        "url": "https://www.finep.gov.br/financiamento-nao-reembolsavel",
+        "trecho": "Prazo informado nos dados da página da FINEP: 09/04/2026 (início em 06/02/2026)"
+      }
+    },
+    {
+      "id": "capes-4d63c9e60c",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Probral",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/alemanha/probral",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/01042026_Edital_2795382_SEI_2794361_Edital_8__de_2026.pdf/@@display-file/file",
+      "inscricoesFim": "2026-05-12",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/alemanha/probral",
+        "trecho": "Inscrições da CAPES Até o dia 12 de maio de 2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "capes-ec3811dc43",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa CAPES/Cofecub",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/franca/cofecub",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/30032026_EDITAL72026CAPESCOFECUB.pdf/@@display-file/file",
+      "inscricoesFim": "2026-05-22",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/franca/cofecub",
+        "trecho": "Inscrições da CAPES Até o dia 22 de maio de 2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "capes-918f698ef6",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa CAPES/MES-CUBA - Docentes",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/cuba/mes-docentes",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/lista_listagem_2854147_lista_de_inscritos_docentes.pdf/@@display-file/file",
+      "inscricoesFim": "2026-06-03",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/cuba/mes-docentes",
+        "trecho": "Inscrições da CAPES Até o dia 03 de junho de 2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "capes-c836567b25",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa Capes/MES-Cuba - Projetos",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/cuba/mes-projetos",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/23042026_Edital_2806973_SEI_2806062_Edital_12_2026.pdf/@@display-file/file",
+      "inscricoesFim": "2026-06-03",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/cuba/mes-projetos",
+        "trecho": "Inscrições da CAPES Até o dia 03 de junho de 2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "capes-0fd7e2e100",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa CAPES/Purdue para Projetos Conjuntos de Pesquisa",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/estados-unidos/programa-capes-purdue-para-projetos-conjuntos-de-pesquisa",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/09032026_Edital_2780596_SEI_2779319_Edital_5__de_2026.pdf/@@display-file/file",
+      "inscricoesFim": "2026-06-03",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/estados-unidos/programa-capes-purdue-para-projetos-conjuntos-de-pesquisa",
+        "trecho": "Inscrições da CAPES. Até o dia 03 de junho de 2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "capes-b399179969",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa AURORA - Continuidade da Trajetória de Mães Cientistas",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/programa-aurora",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/Edital_2818271_SEI_2817084_Edital_16_2026__1_.pdf/@@display-file/file",
+      "inscricoesFim": "2026-06-05",
+      "evidencia": {
+        "origem": "pdf",
+        "url": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/Edital_2818271_SEI_2817084_Edital_16_2026__1_.pdf/@@display-file/file",
+        "trecho": "Submissão Res. Técnico Rec. Técnico Res. Prelim. Rec. Mérito Homolog.Res. Final DOU Implementação Jun/2026 05/06/2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "finep-d4d108435c",
+      "fonte": "finep",
+      "orgao": "FINEP",
+      "titulo": "Ecossistema Tecnológico de Biorrefino",
+      "link": "https://www.finep.gov.br/e/chamada-publica/222684/755795",
+      "resumo": "SELEÇÃO PÚBLICA FINEP/PETROBRAS EIXO TECNOLÓGICO - ROTAS BIOTECNOLÓGICAS PARA PRODUÇÃO DE COMBUSTÍVEIS RENOVÁVEIS E PRODUTOS DE BAIXO CARBONO A Financiadora de Estudos e Projetos – Finep e a Petrobras tornam pública a presente Seleção Pública, inciativa que faz parte da criação de um Ecossistema Tecnológico de Biorrefino, por meio do apoio a projetos de inovação voltados ao desenvolvimento de…",
+      "publicadoEm": "2026-03-25",
+      "situacaoFonte": "Aberta",
+      "publico": [
+        "Startup",
+        "Receita: até R$ 4,8 Mi",
+        "Receita: R$ 4,8 Mi - R$ 16,0 Mi",
+        "Receita: R$ 16,0 Mi - R$ 90,0 Mi",
+        "Receita: R$ 90,0 Mi - R$ 300,0 Mi",
+        "Receita: maior que R$ 300,0 Mi",
+        "ICT"
+      ],
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesInicio": "2026-03-25",
+      "inscricoesFim": "2026-06-08",
+      "evidencia": {
+        "origem": "api",
+        "url": "https://www.finep.gov.br/financiamento-nao-reembolsavel",
+        "trecho": "Prazo informado nos dados da página da FINEP: 08/06/2026 (início em 25/03/2026)"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Aberta\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "capes-b231c73733",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa de Desenvolvimento da Pós-Graduação (PDPG) – Formação Profissional de Nutricionistas",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/formacao-de-recursos-humanos-em-areas-estrategicas/programa-de-desenvolvimento-da-pos-graduacao-pdpg-formacao-profissional-de-nutricionistas",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/19052026_Edital_2823166_EDITAL_CONJUNTO_4_2026___CAPES_CFN.pdf/@@display-file/file",
+      "inscricoesFim": "2026-06-08",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/formacao-de-recursos-humanos-em-areas-estrategicas/programa-de-desenvolvimento-da-pos-graduacao-pdpg-formacao-profissional-de-nutricionistas",
+        "trecho": "submissão das propostas 8 de junho de 2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "capes-60bd1130a1",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa CAPES/AUGM",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-capes-augm",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2865911_lista_de_inscritos.pdf/@@display-file/file",
+      "inscricoesFim": "2026-06-22",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-capes-augm",
+        "trecho": "Inscrições da CAPES. Até o dia 22 de junho de 2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "embrapii-4b5ed51119",
+      "fonte": "embrapii",
+      "orgao": "EMBRAPII",
+      "titulo": "Chamada interna nº 01/2026 para a seleção de Unidades e Centros de Competência Embrapii para atuação no Programa Jornada do Conhecimento para pesquisadores de INCTs",
+      "link": "https://embrapii.org.br/chamadas-publicas/chamada-interna-no-01-2026-para-a-selecao-de-unidades-e-centros-de-competencia-embrapii-para-atuacao-no-programa-jornada-do-conhecimento-para-pesquisadores-de-incts/",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "inscricoesInicio": "2026-06-08",
+      "inscricoesFim": "2026-06-26",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://embrapii.org.br/chamadas-publicas/chamada-interna-no-01-2026-para-a-selecao-de-unidades-e-centros-de-competencia-embrapii-para-atuacao-no-programa-jornada-do-conhecimento-para-pesquisadores-de-incts/",
+        "trecho": "Período de inscrições 08/06 a 26/06/2026"
+      }
+    },
+    {
+      "id": "capes-2efb053fbe",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa Cátedra Maison du Brésil",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/franca/programa-catedra-maison-du-bresil",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/15052026_Edital_2821031_SEI_2819915_Edital_18_2026.pdf/@@display-file/file",
+      "inscricoesFim": "2026-06-26",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/franca/programa-catedra-maison-du-bresil",
+        "trecho": "Inscrições da CAPES. Até o dia 26 de junho de 2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "capes-b5e059cf77",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa CAPES/Brafitec",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/franca/programa-capes-brafitec",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/lista_listagem_2864548_sei_2863010_edital_minuta__.pdf/@@display-file/file",
+      "inscricoesFim": "2026-07-01",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/franca/programa-capes-brafitec",
+        "trecho": "Inscrições da CAPES: Até o dia 01 de julho de 2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "finep-8e8550f466",
+      "fonte": "finep",
+      "orgao": "FINEP",
+      "titulo": "Agricultura familiar para ICTs 2026",
+      "link": "https://www.finep.gov.br/e/chamada-publica/222684/755892",
+      "resumo": "CHAMADA PÚBLICA MCTI/FINEP/FNDCT CADEIAS SOCIOPRODUTIVAS DA AGRICULTURA FAMILIAR E SISTEMAS AGROALIMENTARES SUSTENTÁVEIS PARA ICTS 2026 Selecionar propostas para concessão de apoio financeiro à execução de projetos institucionais voltados ao desenvolvimento de soluções científicas e tecnológicas para enfrentar desafios na estruturação e no fortalecimento de cadeias socioprodutivas baseadas na…",
+      "publicadoEm": "2026-03-25",
+      "situacaoFonte": "Aberta",
+      "publico": [
+        "ICT"
+      ],
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesInicio": "2026-03-25",
+      "inscricoesFim": "2026-07-03",
+      "evidencia": {
+        "origem": "api",
+        "url": "https://www.finep.gov.br/financiamento-nao-reembolsavel",
+        "trecho": "Prazo informado nos dados da página da FINEP: 03/07/2026 (início em 25/03/2026)"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Aberta\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "capes-8fab7a248d",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa de Desenvolvimento Acadêmico Indígena (PDAI)",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/programa-de-desenvolvimento-academico-indigena-pdai",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2851776_sei_2851450_edital_n__23_2026.pdf/@@display-file/file",
+      "inscricoesInicio": "2026-07-06",
+      "inscricoesFim": "2026-07-31",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/programa-de-desenvolvimento-academico-indigena-pdai",
+        "trecho": "Inscrição dos PPGs De 06 a 31 de julho de 2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "capes-5ab600b2a4",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa CAPES/Universidade em Buffalo (CAPES/UB) - Professor Visitante",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/estados-unidos/programa-capes-universidade-em-buffalo-capes-ub-professor-visitante",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/lista_listagem_2892345_lista_de_inscritos.pdf/@@display-file/file",
+      "inscricoesFim": "2026-08-24",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/estados-unidos/programa-capes-universidade-em-buffalo-capes-ub-professor-visitante",
+        "trecho": "Inscrições da CAPES. Até o dia 24 de agosto de 2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "capes-d336951007",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa OBEDUC-EI - Observatório da Educação Especial Inclusiva",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/educacao-basica/observatorio-da-educacao-especial-inclusiva-obeduc-ei",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital-no-5.pdf/@@display-file/file",
+      "inscricoesFim": "2026-08-24",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/educacao-basica/observatorio-da-educacao-especial-inclusiva-obeduc-ei",
+        "trecho": "submissão de propostas 24/08/2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "capes-b53e108ebe",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "CAPES/CNJ - Apoio a Pesquisas Judiciárias Constitucionais",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/formacao-de-recursos-humanos-em-areas-estrategicas/capes-cnj-apoio-a-pesquisas-judiciarias-constitucionais",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2873621_sei___23038-001405_2026_81.pdf/@@display-file/file",
+      "inscricoesFim": "2026-08-31",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/formacao-de-recursos-humanos-em-areas-estrategicas/capes-cnj-apoio-a-pesquisas-judiciarias-constitucionais",
+        "trecho": "submissão das propostas 31 de agosto de 2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "finep-2ca6f63bb3",
+      "fonte": "finep",
+      "orgao": "FINEP",
+      "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Economia Circular e Cidades Sustentáveis",
+      "link": "https://www.finep.gov.br/e/chamada-publica/222684/755213",
+      "resumo": "Esta Seleção Pública tem por objetivo conceder recursos de subvenção econômica para atividades de pesquisa, desenvolvimento tecnológico e inovação (PD&I) em projetos inovadores, com risco tecnológico associado, executados por empresas, obrigatoriamente com a parceria de Instituições Científicas, Tecnológicas e de Inovação (ICTs). A iniciativa busca promover o desenvolvimento de tecnologias…",
+      "publicadoEm": "2026-02-13",
+      "situacaoFonte": "Encerrada",
+      "publico": [
+        "Startup",
+        "Cooperativa",
+        "Receita: até R$ 4,8 Mi",
+        "Receita: R$ 4,8 Mi - R$ 16,0 Mi",
+        "Receita: R$ 16,0 Mi - R$ 90,0 Mi",
+        "Receita: R$ 90,0 Mi - R$ 300,0 Mi",
+        "Receita: maior que R$ 300,0 Mi"
+      ],
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesInicio": "2026-02-13",
+      "inscricoesFim": "2026-08-31",
+      "evidencia": {
+        "origem": "api",
+        "url": "https://www.finep.gov.br/financiamento-nao-reembolsavel",
+        "trecho": "Prazo informado nos dados da página da FINEP: 31/08/2026 (início em 13/02/2026)"
+      }
+    },
+    {
+      "id": "finep-be302ceddd",
+      "fonte": "finep",
+      "orgao": "FINEP",
+      "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Transição Energética",
+      "link": "https://www.finep.gov.br/e/chamada-publica/222684/754567",
+      "resumo": "Esta Seleção Pública tem por objetivo conceder recursos de subvenção econômica para atividades de pesquisa, desenvolvimento tecnológico e inovação (PD&I) em projetos inovadores, com risco tecnológico associado, executados por empresas, obrigatoriamente com a parceria de Instituições Científicas, Tecnológicas e de Inovação (ICTs). A iniciativa busca promover o desenvolvimento de tecnologias…",
+      "publicadoEm": "2026-02-06",
+      "situacaoFonte": "Encerrada",
+      "publico": [
+        "Startup",
+        "Cooperativa",
+        "Receita: até R$ 4,8 Mi",
+        "Receita: R$ 4,8 Mi - R$ 16,0 Mi",
+        "Receita: R$ 16,0 Mi - R$ 90,0 Mi",
+        "Receita: R$ 90,0 Mi - R$ 300,0 Mi",
+        "Receita: maior que R$ 300,0 Mi"
+      ],
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesInicio": "2026-02-06",
+      "inscricoesFim": "2026-09-02",
+      "evidencia": {
+        "origem": "api",
+        "url": "https://www.finep.gov.br/financiamento-nao-reembolsavel",
+        "trecho": "Prazo informado nos dados da página da FINEP: 02/09/2026 (início em 06/02/2026)"
+      }
+    },
+    {
+      "id": "finep-e2eecc570c",
+      "fonte": "finep",
+      "orgao": "FINEP",
+      "titulo": "Finep Mais Inovação Brasil - Rodada 2 - Saúde / Empresas",
+      "link": "https://www.finep.gov.br/e/chamada-publica/222684/754704",
+      "resumo": "Esta Seleção Pública objetiva conceder recursos de subvenção econômica para o desenvolvimento de produtos ou processos inovadores que atendam as finalidades definidas neste regulamento e em seus anexos. Orçamento da chamada: R$ 300.000.000,00 Público-alvo: Empresas Em caso de dúvidas e orientações sobre a seleção pública: cp_mib_sbv_saude_2@finep.gov.br Para apresentar sua proposta através da…",
+      "publicadoEm": "2026-02-06",
+      "situacaoFonte": "Aberta",
+      "publico": [
+        "Startup",
+        "Cooperativa",
+        "Receita: até R$ 4,8 Mi",
+        "Receita: R$ 4,8 Mi - R$ 16,0 Mi",
+        "Receita: R$ 16,0 Mi - R$ 90,0 Mi",
+        "Receita: R$ 90,0 Mi - R$ 300,0 Mi",
+        "Receita: maior que R$ 300,0 Mi"
+      ],
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesInicio": "2026-02-06",
+      "inscricoesFim": "2026-09-18",
+      "evidencia": {
+        "origem": "api",
+        "url": "https://www.finep.gov.br/financiamento-nao-reembolsavel",
+        "trecho": "Prazo informado nos dados da página da FINEP: 18/09/2026 (início em 06/02/2026)"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Aberta\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "finep-1b9ff24ef1",
+      "fonte": "finep",
+      "orgao": "FINEP",
+      "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+      "link": "https://www.finep.gov.br/e/chamada-publica/222684/754839",
+      "resumo": "Esta Seleção Pública objetiva conceder recursos de subvenção econômica para o desenvolvimento de produtos ou processos inovadores, promovendo o desenvolvimento da agroindústria nacional visando a garantida da segurança alimentar e nutricional da população brasileira. Também visa promover parcerias para o desenvolvimento entre empresas e ICTs, no desenvolvimento de projetos em redes. Orçamento da…",
+      "publicadoEm": "2026-02-06",
+      "situacaoFonte": "Encerrada",
+      "publico": [
+        "Startup",
+        "Receita: até R$ 4,8 Mi",
+        "Receita: R$ 4,8 Mi - R$ 16,0 Mi",
+        "Receita: R$ 16,0 Mi - R$ 90,0 Mi",
+        "Receita: R$ 90,0 Mi - R$ 300,0 Mi",
+        "Receita: maior que R$ 300,0 Mi",
+        "Cooperativa"
+      ],
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesInicio": "2026-02-06",
+      "inscricoesFim": "2026-09-30",
+      "evidencia": {
+        "origem": "api",
+        "url": "https://www.finep.gov.br/financiamento-nao-reembolsavel",
+        "trecho": "Prazo informado nos dados da página da FINEP: 30/09/2026 (início em 06/02/2026)"
+      }
+    },
+    {
+      "id": "finep-02dad27be0",
+      "fonte": "finep",
+      "orgao": "FINEP",
+      "titulo": "Finep Mais Inovação Brasil – Rodada 2 - Base Industrial de Defesa",
+      "link": "https://www.finep.gov.br/e/chamada-publica/222684/754961",
+      "resumo": "Esta Seleção Pública objetiva conceder recursos de subvenção econômica para o desenvolvimento de produtos ou processos inovadores dentro do escopo das linhas temáticas Tecnologias para Defesa Nacional e Sustentabilidade econômica para Base Industrial de Defesa (BID), promovendo a integração ICT-empresa. Orçamento da chamada: R$ 600 milhões Público-alvo: Empresas Prazo para envio das propostas…",
+      "publicadoEm": "2026-02-06",
+      "situacaoFonte": "Aberta",
+      "publico": [
+        "Startup",
+        "Receita: até R$ 4,8 Mi",
+        "Receita: R$ 4,8 Mi - R$ 16,0 Mi",
+        "Receita: R$ 16,0 Mi - R$ 90,0 Mi",
+        "Receita: R$ 90,0 Mi - R$ 300,0 Mi",
+        "Receita: maior que R$ 300,0 Mi",
+        "Cooperativa"
+      ],
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesInicio": "2026-02-06",
+      "inscricoesFim": "2026-10-02",
+      "evidencia": {
+        "origem": "api",
+        "url": "https://www.finep.gov.br/financiamento-nao-reembolsavel",
+        "trecho": "Prazo informado nos dados da página da FINEP: 02/10/2026 (início em 06/02/2026)"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Aberta\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "capes-f79e34127c",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Estudo de Ingressantes das Licenciaturas - Edital CAPES/INEP nº 26/2026",
+      "link": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2904194_sei_2903303_edital_conjunto_26_2026.pdf/@@display-file/file",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2904194_sei_2903303_edital_conjunto_26_2026.pdf/@@display-file/file",
+      "inscricoesInicio": "2026-09-28",
+      "inscricoesFim": "2026-10-04",
+      "evidencia": {
+        "origem": "pdf",
+        "url": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2904194_sei_2903303_edital_conjunto_26_2026.pdf/@@display-file/file",
+        "trecho": "Inscrições De 28/09/2026 até às 23:59 do dia 04/10/2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "capes-5fe41bbf8d",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Estudo de Ingressantes das Licenciaturas - Edital CAPES/INEP nº 26/2026 - Alteração",
+      "link": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2906989_sei_2906818_edital_conjunto_n__26_2026___alteracao.pdf/@@display-file/file",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2906989_sei_2906818_edital_conjunto_n__26_2026___alteracao.pdf/@@display-file/file",
+      "inscricoesInicio": "2026-09-28",
+      "inscricoesFim": "2026-10-04",
+      "evidencia": {
+        "origem": "pdf",
+        "url": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2906989_sei_2906818_edital_conjunto_n__26_2026___alteracao.pdf/@@display-file/file",
+        "trecho": "Inscrições De 28/09/2026 até às 23:59 do dia 04/10/2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "capes-af1ddf362e",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Estudo de Ingressantes das Licenciaturas - Edital CAPES/INEP nº 26/2026 - Alteração",
+      "link": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2914199_sei_2913074_edital_conjunto_capes_inep_n__26_2026___alteracao.pdf/@@display-file/file",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2914199_sei_2913074_edital_conjunto_capes_inep_n__26_2026___alteracao.pdf/@@display-file/file",
+      "inscricoesInicio": "2026-09-25",
+      "inscricoesFim": "2026-10-08",
+      "evidencia": {
+        "origem": "pdf",
+        "url": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2914199_sei_2913074_edital_conjunto_capes_inep_n__26_2026___alteracao.pdf/@@display-file/file",
+        "trecho": "Inscrições De 25/09/2026 até às 23:59 do dia 08/10/2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "finep-2687324aab",
+      "fonte": "finep",
+      "orgao": "FINEP",
+      "titulo": "Finep Mais Inovação Brasil - Rodada 2 – Tecnologias Digitais",
+      "link": "https://www.finep.gov.br/e/chamada-publica/222684/755485",
+      "resumo": "Finep Mais Inovação Brasil - Rodada 2 – Tecnologias Digitais Esta Seleção Pública objetiva conceder recursos de subvenção econômica para o desenvolvimento de produtos ou processos inovadores que atendam as finalidades definidas neste regulamento e em seus anexos. Orçamento da chamada: R$ 300.000.000,00 Público-alvo: Empresas Em caso de dúvidas e orientações sobre a seleção pública:…",
+      "publicadoEm": "2026-03-12",
+      "situacaoFonte": "Aberta",
+      "publico": [
+        "Startup",
+        "Cooperativa",
+        "Receita: até R$ 4,8 Mi",
+        "Receita: R$ 4,8 Mi - R$ 16,0 Mi",
+        "Receita: R$ 16,0 Mi - R$ 90,0 Mi",
+        "Receita: R$ 90,0 Mi - R$ 300,0 Mi",
+        "Receita: maior que R$ 300,0 Mi"
+      ],
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesInicio": "2026-03-12",
+      "inscricoesFim": "2026-10-14",
+      "evidencia": {
+        "origem": "api",
+        "url": "https://www.finep.gov.br/financiamento-nao-reembolsavel",
+        "trecho": "Prazo informado nos dados da página da FINEP: 14/10/2026 (início em 12/03/2026)"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Aberta\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "fapesc-e9f49e36d3",
+      "fonte": "fapesc",
+      "orgao": "FAPESC",
+      "titulo": "EDITAL DE CHAMADA PÚBLICA FAPESC/SED N.º 54/2026 PROGRAMA DE FOMENTO À PESQUISA E INOVAÇÃO PARA O DESENVOLVIMENTO DA EDUCAÇÃO CATARINENSE",
+      "link": "https://fapesc.sc.gov.br/edital-de-chamada-publica-fapesc-sed-n-o-054-2026-programa-de-fomento-a-pesquisa-e-inovacao-para-o-desenvolvimento-da-educacao-catarinense/",
+      "resumo": "A FUNDAÇÃO DE AMPARO À PESQUISA E INOVAÇÃO DO ESTADO DE SANTA CATARINA (FAPESC) em colaboração com a SECRETARIA DE ESTADO DA EDUCAÇÃO (SED), no âmbito do Termo de Mútua Colaboração em Ciência, Tecnologia e Inovação n.º 005/2025, torna público o lançamento do presente Edital de Chamada Pública e convida os programas de pósgraduação (PPGs) stricto sensu e cursos de licenciatura, vinculados a…",
+      "publicadoEm": "2026-09-08",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesInicio": "2026-09-10",
+      "inscricoesFim": "2026-10-20",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesc.sc.gov.br/chamadas-abertas/",
+        "trecho": "submissão: 10/09/2026 a 20/10/2026"
+      }
+    },
+    {
+      "id": "capes-d679930f1d",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa de Apoio a Eventos no País (PAEP)",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-no-pais/paep",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2886643_sei_2886062_edital_n___25_2026.pdf/@@display-file/file",
+      "inscricoesInicio": "2026-09-10",
+      "inscricoesFim": "2026-10-20",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-no-pais/paep",
+        "trecho": "Inscrições: de 10 de setembro a 20 de outubro de 2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "capes-c212182bdb",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa CAPES/CLIMAT-AMSUD",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-climat-amsud",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2891614_sei_2891436_edital_26_2026.pdf/@@display-file/file",
+      "inscricoesFim": "2026-10-22",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-climat-amsud",
+        "trecho": "Inscrições da CAPES Até 22 de outubro de 2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "capes-9e22e5b7c3",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa CAPES/MATH-AMSUD",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-math-amsud",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2891614_sei_2891436_edital_26_2026.pdf/@@display-file/file",
+      "inscricoesFim": "2026-10-22",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-math-amsud",
+        "trecho": "Inscrições da CAPES Até 22 de outubro de 2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "capes-672da67253",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa CAPES/STIC-AMSUD",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-stic-amsud-capes",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2891614_sei_2891436_edital_26_2026.pdf/@@display-file/file",
+      "inscricoesFim": "2026-10-22",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-stic-amsud-capes",
+        "trecho": "Inscrições da CAPES Até 22 de outubro de 2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "finep-6d451f5fad",
+      "fonte": "finep",
+      "orgao": "FINEP",
+      "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Mobilidade Sustentável",
+      "link": "https://www.finep.gov.br/e/chamada-publica/222684/755376",
+      "resumo": "Esta Seleção Pública tem por objetivo conceder recursos de subvenção econômica para atividades de pesquisa, desenvolvimento tecnológico e inovação (PD&I) em projetos inovadores, com risco tecnológico associado, executados por empresas, obrigatoriamente com a parceria de Instituições Científicas, Tecnológicas e de Inovação (ICTs). A iniciativa busca fomentar o desenvolvimento de tecnologias…",
+      "publicadoEm": "2026-03-06",
+      "situacaoFonte": "Encerrada",
+      "publico": [
+        "Startup",
+        "Cooperativa",
+        "Receita: até R$ 4,8 Mi",
+        "Receita: R$ 4,8 Mi - R$ 16,0 Mi",
+        "Receita: R$ 16,0 Mi - R$ 90,0 Mi",
+        "Receita: R$ 90,0 Mi - R$ 300,0 Mi",
+        "Receita: maior que R$ 300,0 Mi"
+      ],
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesInicio": "2026-03-06",
+      "inscricoesFim": "2026-10-23",
+      "evidencia": {
+        "origem": "api",
+        "url": "https://www.finep.gov.br/financiamento-nao-reembolsavel",
+        "trecho": "Prazo informado nos dados da página da FINEP: 23/10/2026 (início em 06/03/2026)"
+      }
+    },
+    {
+      "id": "capes-72b11b85d1",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa de Apoio a Eventos no País para a Educação Básica (PAEP-EB)",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/educacao-basica/programa-de-apoio-a-eventos-no-pais-para-a-educacao-basica-paep-eb",
+      "situacaoFonte": "Edital aberto",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2905712_sei_2905378_edital_27_2026.pdf/@@display-file/file",
+      "inscricoesInicio": "2026-10-13",
+      "inscricoesFim": "2026-11-04",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/educacao-basica/programa-de-apoio-a-eventos-no-pais-para-a-educacao-basica-paep-eb",
+        "trecho": "Submissão de propostas 13/10/2026 a 04/11/2026"
+      },
+      "alerta": "A fonte ainda apresenta este edital como \"Edital aberto\", mas o prazo encontrado já passou. Confira na fonte."
+    },
+    {
+      "id": "fapesc-b231e03c9e",
+      "fonte": "fapesc",
+      "orgao": "FAPESC",
+      "titulo": "EDITAL DE CHAMADA PÚBLICA FAPESC/CNPq/CAPES N.º 55/2026 PROGRAMA DE APOIO À FIXAÇÃO DE DOUTORES NO BRASIL – PROFIX-CB",
+      "link": "https://fapesc.sc.gov.br/edital-de-chamada-publica-fapesc-cnpq-capes-n-o-55-2026-programa-de-apoio-a-fixacao-de-doutores-no-brasil-profix-cb/",
+      "resumo": "A FUNDAÇÃO DE AMPARO À PESQUISA E INOVAÇÃO DO ESTADO DE SANTA CATARINA (FAPESC) em colaboração com o CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTÍFICO E TECNOLÓGICO (CNPq) e a COORDENAÇÃO DE APERFEIÇOAMENTO DE PESSOAL DE NÍVEL SUPERIOR (CAPES), formalizada por meio do Processo SEI CNPq n.º 01300.001930/2026-14, torna público o lançamento do presente Edital de Chamada Pública e convida os programas…",
+      "publicadoEm": "2026-09-23",
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesInicio": "2026-09-23",
+      "inscricoesFim": "2026-11-06",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesc.sc.gov.br/chamadas-abertas/",
+        "trecho": "submissão: 23/09/2026 a 06/11/2026"
+      }
+    },
+    {
+      "id": "fapesp-e145ebf5c6",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "FAPESP/CONFAP/Biodiversa+: “Novos ecossistemas: biodiversidade, consequências socio-ecológicas e trajetórias futuras (BiodivFuture)”",
+      "link": "https://fapesp.br/18366",
+      "area": "consulte a chamada",
+      "modalidade": "Auxílio à Pesquisa Regular",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesFim": "2026-11-10",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "submissão de pré-propostas: 10/11/2026"
+      }
+    },
+    {
+      "id": "fapesp-0bd1ebd3d7",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "FAPESP/CONFAP/Water4All: “Gestão sustentável da água”",
+      "link": "https://fapesp.br/18414",
+      "area": "consulte a chamada",
+      "modalidade": "Auxílio à Pesquisa Regular",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesFim": "2026-11-10",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "submissão de pré-propostas: 10/11/2026"
+      }
+    },
+    {
+      "id": "fapesp-cf5e1b733d",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "PIPE Jornada Tecnológica Tecnologias Educacionais – Fase 1",
+      "link": "https://fapesp.br/18434",
+      "area": "inovação",
+      "modalidade": "PIPE - Fase 1",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesFim": "2026-11-12",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "submissão de pré-propostas: 12/11/2026"
+      }
+    },
+    {
+      "id": "fapesp-917b412a62",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "FAPESP/CONFAP/SBEP: “Construindo uma Economia Azul sustentável e inovadora: dominando oportunidades digitais e fomentando resiliência”",
+      "link": "https://fapesp.br/18415",
+      "area": "consulte a chamada",
+      "modalidade": "Auxílio à Pesquisa Regular",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesFim": "2026-11-16",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "submissão de pré-propostas: 16/11/2026"
+      }
+    },
+    {
+      "id": "fapesp-ffe4edea35",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "FAPESP / M-ERA.NET 2026",
+      "link": "https://fapesp.br/18101",
+      "area": "Ciência de Materiais e Engenharia",
+      "modalidade": "Auxílio à Pesquisa Regular",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesFim": "2026-11-18",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "submissão das propostas completas: 18/11/2026"
+      }
+    },
+    {
+      "id": "capes-60c4abaa62",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa de Doutorado-sanduíche no Exterior (PDSE)",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-de-doutorado-sanduiche-no-exterior-pdse",
+      "situacaoFonte": "Edital aberto",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/sei_2849220_edital_n__22_2026.pdf/@@display-file/file",
+      "inscricoesInicio": "2026-10-20",
+      "inscricoesFim": "2026-11-18",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-de-doutorado-sanduiche-no-exterior-pdse",
+        "trecho": "inscrição online e envio da documentação obrigatório De 20 de outubro a 18 de novembro de 2026"
+      }
+    },
+    {
+      "id": "fapesp-d93e118a37",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "Auxílio à Pesquisa Jovens Pesquisadores para Pesquisadores Internacionais",
+      "link": "https://fapesp.br/18389",
+      "area": "consultar chamada",
+      "modalidade": "Auxílio à Pesquisa Jovem Pesquisador",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesFim": "2026-11-19",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "submissão de propostas: 19/11/2026"
+      }
+    },
+    {
+      "id": "fapesp-11d5897353",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "Aperfeiçoamento de especialistas que atuam em museus e instituições de salvaguarda e comunicação de acervos",
+      "link": "https://fapesp.br/18387",
+      "area": "Infraestrutura de pesquisa",
+      "modalidade": "PAIP",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesFim": "2026-11-23",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "submissão de propostas: 23/11/2026"
+      }
+    },
+    {
+      "id": "finep-cb4c81b561",
+      "fonte": "finep",
+      "orgao": "FINEP",
+      "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Semicondutores",
+      "link": "https://www.finep.gov.br/e/chamada-publica/222684/755605",
+      "resumo": "Esta Seleção Pública objetiva conceder recursos de subvenção econômica para o desenvolvimento de produtos ou processos inovadores que atendam as finalidades definidas neste regulamento e em seus anexos. Orçamento da chamada: R$ 100.000.000,00 Público-alvo: Empresas Em caso de dúvidas e orientações sobre a seleção pública: cp_mib_sbv_semicondutores_2@finep.gov.br Para apresentar sua proposta…",
+      "publicadoEm": "2026-03-12",
+      "situacaoFonte": "Aberta",
+      "publico": [
+        "Startup",
+        "Cooperativa",
+        "Receita: até R$ 4,8 Mi",
+        "Receita: R$ 4,8 Mi - R$ 16,0 Mi",
+        "Receita: R$ 16,0 Mi - R$ 90,0 Mi",
+        "Receita: R$ 90,0 Mi - R$ 300,0 Mi",
+        "Receita: maior que R$ 300,0 Mi"
+      ],
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesInicio": "2026-03-12",
+      "inscricoesFim": "2026-11-25",
+      "evidencia": {
+        "origem": "api",
+        "url": "https://www.finep.gov.br/financiamento-nao-reembolsavel",
+        "trecho": "Prazo informado nos dados da página da FINEP: 25/11/2026 (início em 12/03/2026)"
+      }
+    },
+    {
+      "id": "finep-46cfe44a0f",
+      "fonte": "finep",
+      "orgao": "FINEP",
+      "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Transformação Mineral",
+      "link": "https://www.finep.gov.br/e/chamada-publica/222684/754473",
+      "resumo": "Esta Seleção Pública tem por objetivo conceder recursos de subvenção econômica para atividades de pesquisa, desenvolvimento tecnológico e inovação (PD&I) em projetos inovadores, com risco tecnológico associado, executados por empresas, obrigatoriamente com a parceria de Instituições Científicas, Tecnológicas e de Inovação (ICTs). A iniciativa busca promover o adensamento das cadeias de…",
+      "publicadoEm": "2026-02-06",
+      "situacaoFonte": "Aberta",
+      "publico": [
+        "Startup",
+        "Cooperativa",
+        "Receita: até R$ 4,8 Mi",
+        "Receita: R$ 4,8 Mi - R$ 16,0 Mi",
+        "Receita: R$ 16,0 Mi - R$ 90,0 Mi",
+        "Receita: R$ 90,0 Mi - R$ 300,0 Mi",
+        "Receita: maior que R$ 300,0 Mi"
+      ],
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesInicio": "2026-02-06",
+      "inscricoesFim": "2026-11-30",
+      "evidencia": {
+        "origem": "api",
+        "url": "https://www.finep.gov.br/financiamento-nao-reembolsavel",
+        "trecho": "Prazo informado nos dados da página da FINEP: 30/11/2026 (início em 06/02/2026)"
+      }
+    },
+    {
+      "id": "cnpq-e70547b72e",
+      "fonte": "cnpq",
+      "orgao": "CNPq",
+      "titulo": "Chamada CNPq Nº 34/2026 - Auxílio à Promoção de Eventos Científicos, Tecnológicos e/ou de Inovação - ARC",
+      "link": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-34-2026/chamada-publica-cnpq-N-34-2026",
+      "resumo": "O CNPq torna pública a Chamada CNPq nº 34/2026, que tem por objeto apoiar a realização no Brasil de eventos de grande porte, de abrangência mundial, internacional ou nacional, relacionados a ciência, tecnologia e inovação, tais como encontros, congressos e outros similares que visem contribuir significativamente para o desenvolvimento científico e tecnológico e a inovação do País. Chamada…",
+      "publicadoEm": "2026-10-14",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesInicio": "2026-10-14",
+      "inscricoesFim": "2026-12-04",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+        "trecho": "Inscrições: 14/10/2026 a 04/12/2026"
+      }
+    },
+    {
+      "id": "fapesp-b02df15412",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "Chamada de Programa BIOTA-FAPESP – Biota Síntese e Transformação",
+      "link": "https://fapesp.br/18456",
+      "area": "interdisciplinaridade entre Ciências Naturais e Sociais",
+      "modalidade": "Auxílio à Pesquisa - Regular",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesFim": "2026-12-04",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "Data-limite para envio da consulta de elegibilidade e da pré-proposta: 04/12/2026"
+      }
+    },
+    {
+      "id": "fapesp-5838ead30b",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "Chamada de Propostas – Programa Desafios da Amazônia",
+      "link": "https://fapesp.br/18249",
+      "area": "Sociobioeconomia",
+      "modalidade": "consultar a chamada",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesFim": "2026-12-08",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "apresentação das propostas finais: 08/12/2026"
+      }
+    },
+    {
+      "id": "cnpq-95de50d98c",
+      "fonte": "cnpq",
+      "orgao": "CNPq",
+      "titulo": "Chamada Pública CNPq/Petrobras N° 31/2026 - Projeto InspirAÇÃO",
+      "link": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-31-2026/chamada-publica-cnpq-N-31-2026",
+      "resumo": "O Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), em parceria institucional com o Centro de Pesquisas, Desenvolvimento e Inovação Leopoldo Américo Miguez de Mello (Cenpes) e com financiamento da Petrobras, convida Instituição Científica, Tecnológica e de Inovação (ICT) e/ou Instituição de Ensino Superior (IES) a apresentarem propostas para a implementação do Projeto…",
+      "publicadoEm": "2026-10-26",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesInicio": "2026-10-26",
+      "inscricoesFim": "2026-12-08",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+        "trecho": "Inscrições: 26/10/2026 a 08/12/2026"
+      }
+    },
+    {
+      "id": "fapesp-ac332bd204",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "PIPE Jornada Tecnológica Indústria do Futuro – Fase 1",
+      "link": "https://fapesp.br/18349",
+      "area": "inovação",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesFim": "2026-12-09",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "apresentação da proposta completa para propostas enquadradas: 09/12/2026"
+      }
+    },
+    {
+      "id": "fapesp-997c903255",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "Chamada de Propostas Bolsa Estágio de Pesquisa no Exterior (BEPE) Iniciação Científica",
+      "link": "https://fapesp.br/18416",
+      "area": "todas",
+      "modalidade": "BEPE",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesFim": "2026-12-11",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "submissão de proposta: 11/12/2026"
+      }
+    },
+    {
+      "id": "fapesp-1897964d4b",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "Chamada de Propostas Bolsa Estágio de Pesquisa no Exterior (BEPE) Mestrado",
+      "link": "https://fapesp.br/18417",
+      "area": "todas",
+      "modalidade": "BEPE",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesFim": "2026-12-11",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "submissão de proposta: 11/12/2026"
+      }
+    },
+    {
+      "id": "cnpq-24e2accdfe",
+      "fonte": "cnpq",
+      "orgao": "CNPq",
+      "titulo": "Chamada Pública CNPq/CAPES Nº 30/2026 – Programa de Mestrado e Doutorado Acadêmico para Inovação – MAI/DAI",
+      "link": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-30-2026/chamada-publica-cnpq-N-30-2026",
+      "resumo": "A edição de 2026 do Programa de Mestrado e Doutorado para Inovação (MAI/DAI), que estimula a realização de pesquisas de mestrado e doutorado em universidades em parceria com empresas, recebe propostas até o dia 11 de dezembro. A chamada é realizada pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) e conta com a parceria da Coordenação de Aperfeiçoamento de Pessoal de Nível…",
+      "publicadoEm": "2026-08-19",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesInicio": "2026-08-19",
+      "inscricoesFim": "2026-12-11",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+        "trecho": "Inscrições: 19/08/2026 a 11/12/2026"
+      }
+    },
+    {
+      "id": "capes-96edb84502",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Chamada Pública para Envio de Proposta de Curso Novo - Edital nº 20/2026",
+      "link": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2844920.pdf/@@display-file/file",
+      "situacaoFonte": "Edital aberto",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2844920.pdf/@@display-file/file",
+      "inscricoesInicio": "2026-08-24",
+      "inscricoesFim": "2026-12-18",
+      "evidencia": {
+        "origem": "pdf",
+        "url": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2844920.pdf/@@display-file/file",
+        "trecho": "submissão deverá ser feita no período de 24 de agosto de 2026 até as 18h do dia 18 de dezembro de 2026"
+      }
+    },
+    {
+      "id": "capes-be605c9ce7",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Pé-de-meia Licenciaturas",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/educacao-basica/pe-de-meia-licenciaturas",
+      "situacaoFonte": "Edital aberto",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/16012026_Edital_2753123_SEI_2753038_Edital_2_2026.pdf/@@display-file/file",
+      "inscricoesInicio": "2026-02-20",
+      "inscricoesFim": "2026-12-19",
+      "fluxoContinuo": true,
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/educacao-basica/pe-de-meia-licenciaturas",
+        "trecho": "inscrição dos candidatos na Plataforma Freire Fluxo contínuo de de 20/02/2026 a 19/12/2026"
+      }
+    },
+    {
+      "id": "capes-561fb277d8",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa Cátedra Jorge Amado",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/cuba/programa-catedra-jorge-amado",
+      "situacaoFonte": "Edital aberto",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/23042026_Edital_2806958_SEI_2806040_Edital_11_2026.pdf/@@display-file/file",
+      "inscricoesFim": "2026-12-28",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/cuba/programa-catedra-jorge-amado",
+        "trecho": "Inscrições da CAPES Até o dia 28 de dezembro de 2026"
+      }
+    },
+    {
+      "id": "fapesp-94e04faf8d",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "Edital Comunicar Ciência – 2026",
+      "link": "https://fapesp.br/18498",
+      "area": "divulgação científica",
+      "modalidade": "Bolsa de Jornalismo Científico nível 1 (JC-I)",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesFim": "2027-01-06",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "submissão de propostas: 06/01/2027"
+      }
+    },
+    {
+      "id": "cnpq-73b044dd54",
+      "fonte": "cnpq",
+      "orgao": "CNPq",
+      "titulo": "Chamada CNPq nº 33/2026 - Bolsas de Produtividade do CNPq",
+      "link": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/chamada-publica-cnpq-N-33-2026",
+      "resumo": "O CNPq torna pública a Chamada CNPq nº 33/2026, que tem por objeto conceder bolsas nas seguintes modalidades: Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT), Produtividade em Pesquisa (PQ) e Produtividade em Pesquisa Sênior (PQSr). São objetivos desta chamada:a) valorizar pesquisadores que possuam produção científica, tecnológica e de inovação de destaque em suas…",
+      "publicadoEm": "2026-10-07",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesInicio": "2026-10-07",
+      "inscricoesFim": "2027-01-07",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+        "trecho": "Inscrições: 07/10/2026 a 07/01/2027"
+      }
+    },
+    {
+      "id": "embrapii-f93ec6b781",
+      "fonte": "embrapii",
+      "orgao": "EMBRAPII",
+      "titulo": "Chamada Pública n°02/2026 para Projetos de Alto Impacto em Economia Circular",
+      "link": "https://embrapii.org.br/chamadas-publicas/chamada-publica-n02-2026-para-projetos-de-alto-impacto-em-economia-circular/",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "inscricoesInicio": "2026-11-18",
+      "inscricoesFim": "2027-01-08",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://embrapii.org.br/chamadas-publicas/chamada-publica-n02-2026-para-projetos-de-alto-impacto-em-economia-circular/",
+        "trecho": "Submissão das pré-propostas pelas Unidades Embrapii De 18 de novembro 2026 a 08 de janeiro 2027"
+      }
+    },
+    {
+      "id": "cnpq-20a236aa69",
+      "fonte": "cnpq",
+      "orgao": "CNPq",
+      "titulo": "Chamada Pública CNPq/MCTI N° 36/2026 - Apoio a cursos de curta duração em biodiversidade, no âmbito do Centro Franco-Brasileiro de Biodiversidade Amazônica (CFBBA)",
+      "link": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-36-2026/chamada-publica-cnpq-N-36-2026",
+      "resumo": "A presente Chamada Pública tem por objetivo apoiar a realização de cursos de curta duração na área de biodiversidade, a serem promovidos no âmbito do Centro Franco-Brasileiro de Biodiversidade Amazônica (CFBBA). A iniciativa visa fortalecer as capacidades científica e tecnológica do Brasil e da França, por meio do intercâmbio e da transferência de conhecimentos, do desenvolvimento de projetos…",
+      "publicadoEm": "2026-11-03",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesInicio": "2026-11-03",
+      "inscricoesFim": "2027-02-12",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+        "trecho": "Inscrições: 03/11/2026 a 12/02/2027"
+      }
+    },
+    {
+      "id": "fapesp-68866d5cff",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "Chamada Conjunta de Propostas FAPESP / CONFAP / RAMP (Raw Materials Partnership for the Green and Digital Transition)",
+      "link": "https://fapesp.br/18256",
+      "area": "consultar a chamada",
+      "modalidade": "Auxílio à Pesquisa - Regular",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesFim": "2027-02-15",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "submissão de propostas completas: 15/02/2027"
+      }
+    },
+    {
+      "id": "fapesp-ac00d436ac",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "Chamada Pesquisa e Desenvolvimento de Plataformas Digitais Baseadas em Software Livre e Protocolos Abertos",
+      "link": "https://fapesp.br/18444",
+      "area": "computação",
+      "modalidade": "Auxílio à Pesquisa - Regular e Auxílio à Pesquisa - Temático",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesFim": "2027-02-22",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "submissão de propostas completas: 22/02/2027"
+      }
+    },
+    {
+      "id": "fapesp-e491fa60d5",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "SPRINT 2026",
+      "link": "https://fapesp.br/18407",
+      "area": "todas",
+      "modalidade": "mobilidade de pesquisadores",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesFim": "2027-02-22",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "submissão de propostas: 22/02/2027"
+      }
+    },
+    {
+      "id": "fapesp-c09a555c13",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "Edital do Programa FICA-SP (Fixação e Incentivo à Carreira Acadêmica em São Paulo)",
+      "link": "https://fapesp.br/18238",
+      "area": "todas",
+      "modalidade": "Auxílio à Pesquisa Projeto Geração",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesFim": "2027-02-26",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "submissão de proposta: 26/02/2027"
+      }
+    },
+    {
+      "id": "fapesp-242ea524fa",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "Chamada de Propostas FAPESP e Instituto Pasteur de Montevideo 2026",
+      "link": "https://fapesp.br/18455",
+      "area": "Biomedicina",
+      "modalidade": "Auxílio à Pesquisa Jovem Pesquisador",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesFim": "2027-03-04",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "submissão de proposta: 04/03/2027"
+      }
+    },
+    {
+      "id": "cnpq-363e01ec6c",
+      "fonte": "cnpq",
+      "orgao": "CNPq",
+      "titulo": "Chamada Pública MCTI/CNPq/ANR N° 32/2026",
+      "link": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-32-2026/chamada-publica-cnpq-N-32-2026",
+      "resumo": "Chamada Pública entre o Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq e a Agência Nacional de Pesquisa - ANR, tendo por objetivo selecionar projetos de pesquisa conjuntos entre grupos brasileiros e franceses, que visem contribuir para o desenvolvimento científico, tecnológico e a inovação do país. Chamada Inscrições: 03/09/2026 a 31/03/2027 * Para mais informações em…",
+      "publicadoEm": "2026-09-03",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesInicio": "2026-09-03",
+      "inscricoesFim": "2027-03-31",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+        "trecho": "Inscrições: 03/09/2026 a 31/03/2027"
+      }
+    },
+    {
+      "id": "fapesp-2de0e3a424",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "UNESCO-TWAS/FAPESP para Bolsas de Pós-Doutorado a Pesquisadores de Países em Desenvolvimento",
+      "link": "https://fapesp.br/18365",
+      "area": "todas",
+      "modalidade": "Bolsa de Pós-doutorado",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesFim": "2027-04-01",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "submissão da proposta completa: 01/04/2027"
+      }
+    },
+    {
+      "id": "capes-141157beae",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Plano Nacional de Formação de Professores da Educação Básica (Parfor)",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/educacao-basica/parfor/parfor",
+      "situacaoFonte": "Edital aberto",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2855421_sei_2854365_edital_n__23_2026.pdf/@@display-file/file",
+      "inscricoesInicio": "2027-03-16",
+      "inscricoesFim": "2027-04-09",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/educacao-basica/parfor/parfor",
+        "trecho": "inscrição o professor deverá ter o currículo atualizado na Plataforma Freire) 16/03/2027 a 09/04/2027"
+      }
+    },
+    {
+      "id": "fapesc-c6c14a9d6c",
+      "fonte": "fapesc",
+      "orgao": "FAPESC",
+      "titulo": "EDITAL SUPLEMENTAR DE SUBVENÇÃO ECONÔMICA FAPESC N.º 65/2025 PROGRAMA HORIZONTE EUROPA (2026–2027)",
+      "link": "https://fapesc.sc.gov.br/edital-suplementar-de-subvencao-economica-fapesc-n-o-65-2025-programa-horizonte-europa-2026-2027/",
+      "resumo": "A FUNDAÇÃO DE AMPARO À PESQUISA E INOVAÇÃO DO ESTADO DE SANTA CATARINA (FAPESC), em colaboração com a UNIÃO EUROPEIA (UE), por meio da adesão ao Arranjo Administrativo entre a Comissão Europeia, o Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), a Financiadora de Estudos e Projetos (FINEP) e o Conselho Nacional das Fundações Estaduais de Amparo à Pesquisa (CONFAP), torna…",
+      "publicadoEm": "2025-11-25",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesFim": "2028-06-30",
+      "fluxoContinuo": true,
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesc.sc.gov.br/chamadas-abertas/",
+        "trecho": "submissão: Fluxo contínuo até 30/06/2028"
+      }
+    },
+    {
+      "id": "fapesc-f1af0d98ac",
+      "fonte": "fapesc",
+      "orgao": "FAPESC",
+      "titulo": "EDITAL SUPLEMENTAR FAPESC N.º 66/2025 PROGRAMA HORIZONTE EUROPA (2026–2027)",
+      "link": "https://fapesc.sc.gov.br/edital-suplementar-fapesc-n-o-66-2025-programa-horizonte-europa-2026-2027/",
+      "resumo": "A FUNDAÇÃO DE AMPARO À PESQUISA E INOVAÇÃO DO ESTADO DE SANTA CATARINA (FAPESC), em colaboração com a UNIÃO EUROPEIA (EU), por meio de adesão ao Arranjo Administrativo entre a Comissão Europeia, o Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), a Financiadora de Estudos e Projetos (FINEP) e o Conselho Nacional das Fundações Estaduais de Amparo à Pesquisa (CONFAP), torna…",
+      "publicadoEm": "2025-11-26",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "inscricoesFim": "2028-06-30",
+      "fluxoContinuo": true,
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesc.sc.gov.br/chamadas-abertas/",
+        "trecho": "submeterem os projetos de pesquisas. Prazo para submissão: Fluxo contínuo até 30/06/2028"
+      }
+    },
+    {
+      "id": "fapesp-52275773a6",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "Chamada de Propostas para o Programa \"Generic Call for Proposals 2027\"",
+      "link": "https://fapesp.br/18378",
+      "area": "Consulte a chamada",
+      "modalidade": "Auxílio à Pesquisa – Regular e Auxílio à Pesquisa – Temático",
+      "status": "sem-prazo",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10"
+    },
+    {
+      "id": "fapesp-17648934f3",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "Chamada FAPESP - National Science Foundation, Diretoria de Geociências",
+      "link": "https://fapesp.br/17293",
+      "area": "Geociências",
+      "modalidade": "Auxílio à Pesquisa - Regular e Temático",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "fluxoContinuo": true,
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "oundation, Diretoria de Geociências Submissão de propostas: fluxo contínuo Área: Geociências Modalidade: Auxílio à"
+      }
+    },
+    {
+      "id": "fapesp-d7d279876c",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "Chamada FAPESP/Confap/Horizon Europe",
+      "link": "https://fapesp.br/16466",
+      "area": "todas as áreas do conhecimento",
+      "modalidade": "Auxílios à Pesquisa Regular, Temático e Jovem Pesquisador",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "fluxoContinuo": true,
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "hamada FAPESP/Confap/Horizon Europe Submissão de propostas: fluxo contínuo Áreas: todas as áreas do conhecimento M"
+      }
+    },
+    {
+      "id": "embrapii-c9b383c122",
+      "fonte": "embrapii",
+      "orgao": "EMBRAPII",
+      "titulo": "Chamada Pública Centro de Competência Embrapii nº 01/2025",
+      "link": "https://embrapii.org.br/chamadas-publicas/chamada-publica-centro-de-competencia-embrapii-no-01-2025/",
+      "status": "sem-prazo",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10"
+    },
+    {
+      "id": "embrapii-0ca261c99f",
+      "fonte": "embrapii",
+      "orgao": "EMBRAPII",
+      "titulo": "Chamada Pública Centro de Competência Embrapii nº 02/2025",
+      "link": "https://embrapii.org.br/chamadas-publicas/chamada-publica-centro-de-competencia-embrapii-no-02-2025/",
+      "status": "sem-prazo",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10"
+    },
+    {
+      "id": "embrapii-555ee316ce",
+      "fonte": "embrapii",
+      "orgao": "EMBRAPII",
+      "titulo": "Chamada Pública Centro de Competência Embrapii nº 03/2025",
+      "link": "https://embrapii.org.br/chamadas-publicas/chamada-publica-centro-de-competencia-no-03-2025/",
+      "status": "sem-prazo",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10"
+    },
+    {
+      "id": "embrapii-40982fead5",
+      "fonte": "embrapii",
+      "orgao": "EMBRAPII",
+      "titulo": "Chamada Pública Unidades Embrapii nº 02/2025",
+      "link": "https://embrapii.org.br/chamadas-publicas/chamada-unidades-02-2025/",
+      "status": "sem-prazo",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10"
+    },
+    {
+      "id": "bndes-3e4aa695be",
+      "fonte": "bndes",
+      "orgao": "BNDES",
+      "titulo": "CPSI Nº 001/2026 – Desafio BNDES Inteligência de Dados em Saúde",
+      "link": "https://www.worldlabs.org/opportunity/inteligencia-dados-saude",
+      "situacaoFonte": "Em andamento",
+      "status": "sem-prazo",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10"
+    },
+    {
+      "id": "bndes-aa06c9e4fd",
+      "fonte": "bndes",
+      "orgao": "BNDES",
+      "titulo": "CPSI Nº 002/2025 – Desafio BNDES Score Inteligente de MEI e Microempresas",
+      "link": "https://www.worldlabs.org/opportunity/desafio-bndes-score-inteligente-de-mei-e-micro",
+      "situacaoFonte": "Em andamento",
+      "status": "sem-prazo",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10"
+    },
+    {
+      "id": "bndes-2b5a626023",
+      "fonte": "bndes",
+      "orgao": "BNDES",
+      "titulo": "CPSI Nº 003/2025 – Desafio BNDES IA Jurídica",
+      "link": "https://www.worldlabs.org/opportunity/desafio-bndes-ia-juridica",
+      "situacaoFonte": "Em andamento",
+      "status": "sem-prazo",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10"
+    },
+    {
+      "id": "fapesp-bbef3aae97",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "DFG",
+      "link": "https://fapesp.br/acordos-dfg",
+      "area": "Todas as áreas do conhecimento",
+      "modalidade": "Auxílio à Pesquisa Regular e Projeto Temático",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "fluxoContinuo": true,
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "DFG Prazo: fluxo contínuo Áreas: Todas as áreas do conhecimento M"
+      }
+    },
+    {
+      "id": "fapesc-78a088e4a9",
+      "fonte": "fapesc",
+      "orgao": "FAPESC",
+      "titulo": "Edital de Chamada Pública FAPESC nº 54/2024 Programa Inova Talentos — FAPESC e IEL/SC em Fluxo Contínuo",
+      "link": "https://fapesc.sc.gov.br/edital-de-chamada-publica-fapesc-no-54-2024-programa-inova-talentos-fapesc-e-iel-sc-em-fluxo-continuo/",
+      "resumo": "A Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina (FAPESC), em colaboração com a Federação das Indústrias do Estado de Santa Catarina (FIESC), ora representada pelo Instituto Euvaldo Lodi de Santa Catarina (IEL/SC), definida no âmbito do Acordo de Cooperação Técnica n.º 08/2024, torna público o lançamento do presente Edital de Chamada Pública e convida empresas, Instituições…",
+      "publicadoEm": "2024-09-25",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "fluxoContinuo": true,
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesc.sc.gov.br/chamadas-abertas/",
+        "trecho": "Edital de Chamada Pública FAPESC nº 54/2024 Programa Inova Talentos — FAPESC e IEL/SC em Fluxo Contínuo"
+      }
+    },
+    {
+      "id": "embrapii-59a759e1db",
+      "fonte": "embrapii",
+      "orgao": "EMBRAPII",
+      "titulo": "EMBRAPII e FAPESP selecionam pesquisa para financiamento",
+      "link": "https://embrapii.org.br/chamadas-publicas/embrapii-e-fapesp-selecionam-pesquisa-para-financiamento/",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "fluxoContinuo": true,
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://embrapii.org.br/chamadas-publicas/embrapii-e-fapesp-selecionam-pesquisa-para-financiamento/",
+        "trecho": ", no período de cinco anos. As propostas serão recebidas em fluxo contínuo que se esgotem os recursos reservados p"
+      }
+    },
+    {
+      "id": "fapesp-8eaf42ac1d",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "FAPESP-BBSRC Pump-Priming Award (FAPPA)",
+      "link": "http://www.fapesp.br/11999",
+      "area": "Temas científicos das ciências biológicas e biotecnologia, mas propostas nos temas segurança alimentar, bioenergia ou biotecnologia industrial terão prioridade.",
+      "modalidade": "Auxílio à Pesquisa Regular",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "fluxoContinuo": true,
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "SP-BBSRC Pump-Priming Award (FAPPA) Submissão de propostas: fluxo contínuo Áreas: Temas científicos das ciências b"
+      }
+    },
+    {
+      "id": "finep-69341a6f1e",
+      "fonte": "finep",
+      "orgao": "FINEP",
+      "titulo": "Finep Mover Empresarial",
+      "link": "https://www.finep.gov.br/e/chamada-publica/222684/752052",
+      "resumo": "SELEÇÃO PÚBLICA MDIC/FINEP/MOVER Financiamento Não Reembolsável à Inovação em Fluxo Contínuo – FINEP MOVER EMPRESARIAL O Ministério da Ciência, Tecnologia e Inovação (MCTI) e a Financiadora de Estudos e Projetos - Finep tornam pública a presente Seleção, cujo objetivo é conceder recursos não reembolsáveis para projetos inovadores e de risco tecnológico, que atendam as finalidades definidas neste…",
+      "publicadoEm": "2025-03-26",
+      "situacaoFonte": "Encerrada",
+      "publico": [],
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "fluxoContinuo": true,
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://www.finep.gov.br/financiamento-nao-reembolsavel",
+        "trecho": "IC/FINEP/MOVER Financiamento Não Reembolsável à Inovação em Fluxo Contínuo – FINEP MOVER EMPRESARIAL O Ministério"
+      }
+    },
+    {
+      "id": "capes-c3d0231eae",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Prêmio CAPES de Tese",
+      "link": "https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese",
+      "situacaoFonte": "Edital aberto",
+      "status": "sem-prazo",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10"
+    },
+    {
+      "id": "capes-5dc201b8d4",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa Rede de Pesquisa e Desenvolvimento da Amazônia Legal",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/redes-de-pesquisa-e-desenvolvimento/programa-rede-de-pesquisa-e-desenvolvimento-da-amazonia-legal",
+      "situacaoFonte": "Edital aberto",
+      "status": "sem-prazo",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/20032026_Edital_2787827_SEI_2787352_Edital_6_2026.pdf/@@display-file/file",
+      "inscricoesInicio": "2026-05-11",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/redes-de-pesquisa-e-desenvolvimento/programa-rede-de-pesquisa-e-desenvolvimento-da-amazonia-legal",
+        "trecho": "inscrições A partir de 11 de maio de 2026"
+      }
+    },
+    {
+      "id": "capes-a7e6c76e50",
+      "fonte": "capes",
+      "orgao": "CAPES",
+      "titulo": "Programa Rede de Pesquisa e Desenvolvimento da Região Nordeste",
+      "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/redes-de-pesquisa-e-desenvolvimento/programa-rede-de-pesquisa-e-desenvolvimento-da-regiao-nordeste",
+      "situacaoFonte": "Edital aberto",
+      "status": "sem-prazo",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "detalheVerificadoEm": "2026-11-10",
+      "pdf": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2848691_sei_2847430_edital_n__21_2026.pdf/@@display-file/file",
+      "inscricoesInicio": "2026-08-03",
+      "evidencia": {
+        "origem": "pagina",
+        "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/redes-de-pesquisa-e-desenvolvimento/programa-rede-de-pesquisa-e-desenvolvimento-da-regiao-nordeste",
+        "trecho": "inscrições A partir de 03 de agosto de 2026"
+      }
+    },
+    {
+      "id": "finep-2cd87c6f7a",
+      "fonte": "finep",
+      "orgao": "FINEP",
+      "titulo": "PROINFRA 2025 EXPANSÃO",
+      "link": "https://www.finep.gov.br/e/chamada-publica/222684/754250",
+      "resumo": "OBJETIVO, GRUPOS DE CONCORRÊNCIA Objetivos Objetivo Geral: Selecionar propostas para apoio financeiro à execução de projetos institucionais de expansão e desenvolvimento de infraestrutura de pesquisa. Objetivos Específicos: (i) Expandir e consolidar a infraestrutura de pesquisa em todo o País, com vistas a criar um ambiente favorável ao desenvolvimento científico e tecnológico; (ii) Aumentar a…",
+      "publicadoEm": "2025-12-23",
+      "situacaoFonte": "Encerrada",
+      "publico": [
+        "ICT"
+      ],
+      "status": "encerrada",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10"
+    },
+    {
+      "id": "fapesp-1c594030be",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "UK Research and Innovation (UKRI)",
+      "link": "http://www.fapesp.br/10273",
+      "area": "conforme Conselhos de Pesquisa do Reino Unido",
+      "modalidade": "Auxílio à Pesquisa Regular, Jovem Pesquisador ou Projeto Temático",
+      "status": "aberta",
+      "primeiraVezVisto": "2026-11-10",
+      "ultimaVerificacao": "2026-11-10",
+      "fluxoContinuo": true,
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "UK Research and Innovation (UKRI) Prazo: fluxo contínuo Áreas: conforme Conselhos de Pesquisa d"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "editais",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Coleta diária de editais de fomento à pesquisa no Brasil",
+  "scripts": {
+    "coletar": "tsx coletor/index.ts",
+    "coletar:fonte": "tsx coletor/index.ts --fonte",
+    "testar": "tsx --test coletor/**/*.test.ts"
+  },
+  "engines": { "node": ">=22" },
+  "dependencies": {
+    "cheerio": "1.2.0",
+    "playwright": "1.63.0",
+    "unpdf": "1.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.0",
+    "tsx": "4.20.3",
+    "typescript": "5.8.3"
+  }
+}
