@@ -12,6 +12,8 @@
 ## Próximas etapas
 
 - [ ] Primeira semana de coletas reais no GitHub Actions e ajustes dos leitores
+  - BNDES: as páginas de detalhe (worldlabs.org) não revelaram prazos; avaliar leitura com navegador
+  - EMBRAPII: 4 chamadas sem prazo identificado; conferir os PDFs
 - [ ] Site público na Vercel: lista com busca e filtros, página de cada edital, evidência das datas
 - [ ] Área de administração: login com GitHub, cadastro e teste de fontes, correção de datas, painel de saúde das fontes, botão de coleta
 - [ ] Novas fontes (outras FAPs e órgãos federais)
