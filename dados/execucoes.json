@@ -1,64 +1,69 @@
 {
-  "ultimaExecucao": "2026-11-12T17:32:27.248Z",
+  "ultimaExecucao": "2026-11-13T17:10:15.550Z",
   "fontes": [
     {
       "fonte": "cnpq",
-      "inicio": "2026-11-12T17:32:05.906Z",
-      "fim": "2026-11-12T17:32:06.916Z",
+      "inicio": "2026-11-13T17:09:06.038Z",
+      "fim": "2026-11-13T17:09:07.540Z",
       "ok": true,
       "encontrados": 7,
       "comPrazo": 7
     },
     {
       "fonte": "capes",
-      "inicio": "2026-11-12T17:32:06.917Z",
-      "fim": "2026-11-12T17:32:07.413Z",
+      "inicio": "2026-11-13T17:09:07.540Z",
+      "fim": "2026-11-13T17:09:38.434Z",
       "ok": true,
       "encontrados": 34,
       "comPrazo": 31
     },
     {
       "fonte": "finep",
-      "inicio": "2026-11-12T17:32:07.413Z",
-      "fim": "2026-11-12T17:32:18.172Z",
+      "inicio": "2026-11-13T17:09:38.434Z",
+      "fim": "2026-11-13T17:09:53.025Z",
       "ok": true,
       "encontrados": 14,
       "comPrazo": 12
     },
     {
       "fonte": "embrapii",
-      "inicio": "2026-11-12T17:32:18.172Z",
-      "fim": "2026-11-12T17:32:19.584Z",
+      "inicio": "2026-11-13T17:09:53.025Z",
+      "fim": "2026-11-13T17:10:02.951Z",
       "ok": true,
       "encontrados": 12,
       "comPrazo": 7
     },
     {
       "fonte": "bndes",
-      "inicio": "2026-11-12T17:32:19.584Z",
-      "fim": "2026-11-12T17:32:21.073Z",
+      "inicio": "2026-11-13T17:10:02.951Z",
+      "fim": "2026-11-13T17:10:07.560Z",
       "ok": true,
       "encontrados": 3,
       "comPrazo": 0
     },
     {
       "fonte": "fapesp",
-      "inicio": "2026-11-12T17:32:21.073Z",
-      "fim": "2026-11-12T17:32:21.965Z",
+      "inicio": "2026-11-13T17:10:07.560Z",
+      "fim": "2026-11-13T17:10:08.791Z",
       "ok": true,
       "encontrados": 23,
       "comPrazo": 17
     },
     {
       "fonte": "fapesc",
-      "inicio": "2026-11-12T17:32:21.965Z",
-      "fim": "2026-11-12T17:32:27.227Z",
+      "inicio": "2026-11-13T17:10:08.791Z",
+      "fim": "2026-11-13T17:10:15.523Z",
       "ok": true,
       "encontrados": 3,
       "comPrazo": 2
     }
   ],
   "historico": [
+    {
+      "data": "2026-11-13T17:10:15.550Z",
+      "total": 96,
+      "falhas": []
+    },
     {
       "data": "2026-11-12T17:32:27.248Z",
       "total": 96,
