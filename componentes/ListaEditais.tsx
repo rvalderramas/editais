@@ -31,12 +31,6 @@ export interface TemaListagem {
 /** Uma aba é uma situação ("aberta"...) ou um tema ("tema:ciidcmil"). */
 type Aba = Status | `tema:${string}`;
 
-const ABAS: { status: Status; rotulo: string }[] = [
-  { status: 'aberta', rotulo: 'Abertas' },
-  { status: 'sem-prazo', rotulo: 'Sem prazo identificado' },
-  { status: 'encerrada', rotulo: 'Encerradas' },
-];
-
 function semAcento(texto: string): string {
   return texto.normalize('NFD').replace(/\p{Diacritic}/gu, '').toLowerCase();
 }
@@ -70,6 +64,12 @@ export function ListaEditais({
     a.startsWith('tema:') ? !!e.temas[a.slice(5)] && e.status !== 'encerrada' : e.status === a;
   const contagem = (a: Aba) => filtrados.filter((e) => pertence(e, a)).length;
   const daAba = filtrados.filter((e) => pertence(e, aba));
+  const abas: { id: Aba; rotulo: string }[] = [
+    { id: 'aberta', rotulo: 'Abertas' },
+    ...temas.map((t) => ({ id: `tema:${t.id}` as Aba, rotulo: t.nome })),
+    { id: 'sem-prazo', rotulo: 'Sem prazo identificado' },
+    { id: 'encerrada', rotulo: 'Encerradas' },
+  ];
   const temaAtual = aba.startsWith('tema:') ? temas.find((t) => `tema:${t.id}` === aba) : undefined;
   if (aba === 'encerrada') daAba.reverse();
   // Editais de fluxo contínuo ficam no topo; os demais mantêm a ordem por prazo.
@@ -103,28 +103,17 @@ export function ListaEditais({
       </div>
 
       <div className={estilos.abas} role="tablist" aria-label="Situação">
-        {ABAS.map((a) => (
+        {/* Ordem: Abertas, temas (ex.: CIIDCMIL), Sem prazo; Encerradas fica à direita. */}
+        {abas.map((a) => (
           <button
-            key={a.status}
+            key={a.id}
             role="tab"
-            aria-selected={aba === a.status}
+            aria-selected={aba === a.id}
             aria-controls="painel-editais"
-            className={estilos.aba}
-            onClick={() => setAba(a.status)}
+            className={`${estilos.aba} ${a.id === 'encerrada' ? estilos.abaDireita : ''}`}
+            onClick={() => setAba(a.id)}
           >
-            {a.rotulo} <span className={estilos.contagem}>{contagem(a.status)}</span>
-          </button>
-        ))}
-        {temas.map((t) => (
-          <button
-            key={t.id}
-            role="tab"
-            aria-selected={aba === `tema:${t.id}`}
-            aria-controls="painel-editais"
-            className={`${estilos.aba} ${estilos.abaTema}`}
-            onClick={() => setAba(`tema:${t.id}`)}
-          >
-            {t.nome} <span className={estilos.contagem}>{contagem(`tema:${t.id}`)}</span>
+            {a.rotulo} <span className={estilos.contagem}>{contagem(a.id)}</span>
           </button>
         ))}
       </div>
