@@ -115,6 +115,7 @@ async function processarFonte(
       area: item.area,
       modalidade: item.modalidade,
       status: 'sem-prazo',
+      abrangencia: fonte.abrangencia ?? ['br'],
       primeiraVezVisto: antigo?.primeiraVezVisto ?? hoje,
       ultimaVerificacao: hoje,
     };
@@ -194,6 +195,7 @@ function aplicarCorrecoes(e: Edital, c: Correcao | undefined, hoje: string): Edi
   if (c.inscricoesInicio !== undefined) corrigido.inscricoesInicio = c.inscricoesInicio;
   if (c.inscricoesFim !== undefined) corrigido.inscricoesFim = c.inscricoesFim;
   if (c.fluxoContinuo !== undefined) corrigido.fluxoContinuo = c.fluxoContinuo;
+  if (c.abrangencia !== undefined) corrigido.abrangencia = c.abrangencia;
   if (c.inscricoesInicio !== undefined || c.inscricoesFim !== undefined) {
     corrigido.evidencia = { origem: 'manual', url: e.link, trecho: c.observacao };
   }

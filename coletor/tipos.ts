@@ -14,6 +14,8 @@ export interface Fonte {
   config: Record<string, unknown>;
   filtros?: FiltrosFonte;
   detalhe?: ConfigDetalhe;
+  /** Onde os editais da fonte valem: ["br"] para todo o país ou siglas de estados, ex.: ["sp"]. */
+  abrangencia?: string[];
 }
 
 export interface FiltrosFonte {
@@ -82,6 +84,8 @@ export interface Edital {
   alerta?: string;
   /** PDF do edital, quando identificado. */
   pdf?: string;
+  /** ["br"] para todo o país ou siglas de estados, ex.: ["sp"]. */
+  abrangencia?: string[];
   primeiraVezVisto: string;
   ultimaVerificacao: string;
   detalheVerificadoEm?: string;
@@ -98,6 +102,7 @@ export interface Correcao {
   inscricoesInicio?: string;
   inscricoesFim?: string;
   fluxoContinuo?: boolean;
+  abrangencia?: string[];
   oculto?: boolean;
   observacao?: string;
 }

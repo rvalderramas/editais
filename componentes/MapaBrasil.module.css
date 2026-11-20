@@ -1,0 +1,26 @@
+.simbolo {
+  position: absolute;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+}
+
+.mapa {
+  --mapa-base: var(--linha);
+  --mapa-cor: var(--azul);
+  display: block;
+  stroke: var(--fundo);
+  stroke-width: 0.75;
+  stroke-linejoin: round;
+}
+
+.pequeno {
+  width: 3.25rem;
+  height: auto;
+}
+
+.grande {
+  width: min(16rem, 100%);
+  height: auto;
+  stroke-width: 1;
+}

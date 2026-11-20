@@ -131,3 +131,21 @@
 .ficha dd {
   margin: 0;
 }
+
+.onde {
+  margin-top: var(--e-5);
+  max-width: 48rem;
+}
+
+.ondeConteudo {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--e-4);
+}
+
+.ondeConteudo p {
+  margin: 0;
+  flex: 1 1 16rem;
+  max-width: 40ch;
+}

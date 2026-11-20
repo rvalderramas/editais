@@ -4,6 +4,7 @@ import type { Edital, OrigemDado } from '@/coletor/tipos.ts';
 import { carregarEditais, carregarFontes, hoje } from '@/lib/dados.ts';
 import { dataLonga, diasEntre, plural } from '@/lib/formatos.ts';
 import estilos from './page.module.css';
+import { MapaAbrangencia, descreverAbrangencia } from '@/componentes/MapaBrasil.tsx';
 
 export function generateStaticParams() {
   return carregarEditais().editais.map((e) => ({ id: e.id }));
@@ -46,6 +47,7 @@ export default async function PaginaEdital({ params }: { params: Promise<{ id: s
   if (!e) notFound();
   const fonte = carregarFontes().find((f) => f.id === e.fonte);
   const dia = hoje();
+  const abrangencia = e.abrangencia ?? fonte?.abrangencia ?? ['br'];
 
   const ficha: [string, string | undefined][] = [
     ['Modalidade', e.modalidade],
@@ -90,6 +92,18 @@ export default async function PaginaEdital({ params }: { params: Promise<{ id: s
         ) : (
           <p>Nenhum trecho com datas de inscrição foi encontrado na lista, na página ou no PDF deste edital.</p>
         )}
+      </section>
+
+      <section className={estilos.onde} aria-labelledby="titulo-onde">
+        <h2 id="titulo-onde">Onde vale</h2>
+        <div className={estilos.ondeConteudo}>
+          <MapaAbrangencia ufs={abrangencia} tamanho="grande" />
+          <p>
+            {abrangencia.includes('br')
+              ? 'Edital nacional: aberto a proponentes de todo o país, conforme as regras do edital.'
+              : `Edital estadual: voltado a proponentes de ${descreverAbrangencia(abrangencia)}, conforme as regras do edital.`}
+          </p>
+        </div>
       </section>
 
       {e.resumo && (

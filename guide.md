@@ -33,8 +33,10 @@ app/                Páginas do site (Next.js, App Router)
   edital/[id]/      Página de cada edital, com a evidência da data
   fontes/           Situação de cada fonte na última coleta
   globals.css       Tokens de cor, tipo e espaço (claro e escuro)
-componentes/        Régua (servidor) e ListaEditais (navegador: busca e filtros)
-lib/                Leitura dos dados (servidor) e formatação de datas (compartilhada)
+componentes/        Régua, ListaEditais (navegador: busca, filtros, abas) e MapaBrasil
+lib/                Leitura dos dados, formatação de datas, temas e desenho do mapa
+  mapa-brasil.ts    Contornos dos estados (gerado a partir de @svg-maps/brazil, CC BY 4.0)
+  temas.ts          Classificação dos editais por tema (palavras-chave de dados/temas.json)
 ```
 
 ## Site
@@ -43,6 +45,9 @@ lib/                Leitura dos dados (servidor) e formatação de datas (compar
 - Identidade: fonte Archivo (variável, hospedada no próprio site), larga nos títulos e números e normal no texto. Fundo cinza-esverdeado claro, tinta azul-ardósia, azul para links e prazos folgados, laranja-escuro para prazos de até 7 dias.
 - O elemento principal é a régua dos 90 dias; o resto da interface é contido.
 - Estilos: um arquivo `.module.css` por componente, todos usando os tokens de `globals.css`.
+- Ordem da lista: editais de fluxo contínuo primeiro; depois, pelo prazo mais próximo.
+- Abrangência: vem de `abrangencia` na fonte (`["br"]` para federais, `["sp"]`, `["sc"]` para FAPs) e pode ser corrigida por edital em `correcoes.json`. O desenho dos estados entra uma vez na página (`<symbol>`) e cada mapa só troca cores por variáveis CSS; na lista, editais estaduais aparecem ampliados no estado.
+- Temas (aba CIIDCMIL): calculados na publicação do site a partir de `dados/temas.json`. Termos fortes valem 2 pontos, de apoio 1; entra com 2 pontos ou mais. Chamadas abertas a todas as áreas também entram, marcadas como tal. As palavras encontradas aparecem na lista, para conferência.
 
 ## Como a data de um edital é obtida
 

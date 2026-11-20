@@ -14,7 +14,10 @@ Acompanhamento diário de editais de fomento à pesquisa no Brasil. Um robô vis
 - Site público (Next.js, para publicar na Vercel):
   - página inicial com a régua dos prazos dos próximos 90 dias e a lista de editais, com busca, filtro por órgão e abas por situação;
   - página de cada edital, com o trecho de onde a data foi tirada e o link para o texto original;
-  - página "Fontes e coleta", com o resultado da última coleta de cada órgão.
+  - página "Fontes e coleta", com o resultado da última coleta de cada órgão;
+  - editais de fluxo contínuo no topo da lista;
+  - mapa de abrangência (nacional ou estadual) em cada edital;
+  - aba CIIDCMIL, com os editais ligados aos temas do Centro Internacional de Inovação e Desenvolvimento de Cidades MIL (IEA-USP) e as chamadas abertas a todas as áreas.
 
 Ainda não existe a área de administração. Veja `roadmap.md`.
 
@@ -25,7 +28,8 @@ Ainda não existe a área de administração. Veja `roadmap.md`.
 | `dados/fontes.json` | Cadastro das fontes e de como cada uma é lida |
 | `dados/editais.json` | Editais encontrados na última coleta |
 | `dados/execucoes.json` | Resultado das últimas coletas, por fonte |
-| `dados/correcoes.json` | Correções manuais de datas e editais ocultados |
+| `dados/correcoes.json` | Correções manuais de datas, abrangência e editais ocultados |
+| `dados/temas.json` | Palavras-chave de cada tema (aba CIIDCMIL), inclusões e exclusões manuais |
 
 ## Como rodar a coleta sem terminal
 

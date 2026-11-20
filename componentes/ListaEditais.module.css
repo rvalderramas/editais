@@ -58,6 +58,23 @@
   border-bottom-color: var(--tinta);
 }
 
+.abaTema {
+  margin-left: auto;
+}
+
+.introTema {
+  margin: var(--e-4) 0 0;
+  max-width: 70ch;
+  font-size: var(--t-2);
+  color: var(--tinta-suave);
+}
+
+.motivo {
+  margin: var(--e-2) 0 0;
+  font-size: var(--t-1);
+  color: var(--azul);
+}
+
 .contagem {
   font-weight: 400;
   color: var(--tinta-suave);
@@ -72,7 +89,7 @@
 /* Cada edital é uma linha: contador de dias | título | datas. */
 .item {
   display: grid;
-  grid-template-columns: 6.5rem minmax(0, 1fr) 11rem;
+  grid-template-columns: 6.5rem minmax(0, 1fr) 11rem 4rem;
   gap: var(--e-4);
   align-items: start;
   padding: var(--e-4) 0;
@@ -177,6 +194,16 @@
   padding-top: var(--e-1);
 }
 
+.abrangencia {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--e-1);
+  font-size: var(--t-1);
+  color: var(--tinta-suave);
+  padding-top: var(--e-1);
+}
+
 .inicio {
   color: var(--tinta-suave);
   font-size: var(--t-1);
@@ -199,6 +226,12 @@
 
   .numero {
     font-size: var(--t-5);
+  }
+
+  .abrangencia {
+    grid-column: 1;
+    grid-row: 2;
+    align-items: flex-start;
   }
 
   .datas {

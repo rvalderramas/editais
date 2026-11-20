@@ -5,6 +5,7 @@ import Link from 'next/link';
 import type { Status } from '@/coletor/tipos.ts';
 import { dataCurta, diasEntre, urgencia } from '@/lib/formatos.ts';
 import estilos from './ListaEditais.module.css';
+import { MapaAbrangencia, rotuloCurto } from './MapaBrasil.tsx';
 
 export interface ItemListagem {
   id: string;
@@ -16,7 +17,19 @@ export interface ItemListagem {
   fluxoContinuo?: boolean;
   detalhes: string[];
   alerta: boolean;
+  abrangencia: string[];
+  /** Temas a que o edital pertence, com os termos que justificam a inclusão. */
+  temas: Record<string, string[]>;
 }
+
+export interface TemaListagem {
+  id: string;
+  nome: string;
+  descricao: string;
+}
+
+/** Uma aba é uma situação ("aberta"...) ou um tema ("tema:ciidcmil"). */
+type Aba = Status | `tema:${string}`;
 
 const ABAS: { status: Status; rotulo: string }[] = [
   { status: 'aberta', rotulo: 'Abertas' },
@@ -28,8 +41,18 @@ function semAcento(texto: string): string {
   return texto.normalize('NFD').replace(/\p{Diacritic}/gu, '').toLowerCase();
 }
 
-export function ListaEditais({ itens, orgaos, hoje }: { itens: ItemListagem[]; orgaos: string[]; hoje: string }) {
-  const [aba, setAba] = useState<Status>('aberta');
+export function ListaEditais({
+  itens,
+  orgaos,
+  temas,
+  hoje,
+}: {
+  itens: ItemListagem[];
+  orgaos: string[];
+  temas: TemaListagem[];
+  hoje: string;
+}) {
+  const [aba, setAba] = useState<Aba>('aberta');
   const [busca, setBusca] = useState('');
   const [orgao, setOrgao] = useState('');
 
@@ -42,9 +65,15 @@ export function ListaEditais({ itens, orgaos, hoje }: { itens: ItemListagem[]; o
     );
   }, [itens, busca, orgao]);
 
-  const contagem = (s: Status) => filtrados.filter((e) => e.status === s).length;
-  const daAba = filtrados.filter((e) => e.status === aba);
+  // Abas de tema mostram os editais do tema que ainda não encerraram (abertos e sem prazo).
+  const pertence = (e: ItemListagem, a: Aba) =>
+    a.startsWith('tema:') ? !!e.temas[a.slice(5)] && e.status !== 'encerrada' : e.status === a;
+  const contagem = (a: Aba) => filtrados.filter((e) => pertence(e, a)).length;
+  const daAba = filtrados.filter((e) => pertence(e, aba));
+  const temaAtual = aba.startsWith('tema:') ? temas.find((t) => `tema:${t.id}` === aba) : undefined;
   if (aba === 'encerrada') daAba.reverse();
+  // Editais de fluxo contínuo ficam no topo; os demais mantêm a ordem por prazo.
+  daAba.sort((a, b) => Number(!!b.fluxoContinuo) - Number(!!a.fluxoContinuo));
 
   return (
     <section className={estilos.lista} aria-labelledby="titulo-lista">
@@ -86,9 +115,27 @@ export function ListaEditais({ itens, orgaos, hoje }: { itens: ItemListagem[]; o
             {a.rotulo} <span className={estilos.contagem}>{contagem(a.status)}</span>
           </button>
         ))}
+        {temas.map((t) => (
+          <button
+            key={t.id}
+            role="tab"
+            aria-selected={aba === `tema:${t.id}`}
+            aria-controls="painel-editais"
+            className={`${estilos.aba} ${estilos.abaTema}`}
+            onClick={() => setAba(`tema:${t.id}`)}
+          >
+            {t.nome} <span className={estilos.contagem}>{contagem(`tema:${t.id}`)}</span>
+          </button>
+        ))}
       </div>
 
       <div id="painel-editais" role="tabpanel">
+        {temaAtual && (
+          <p className={estilos.introTema}>
+            {temaAtual.descricao} A seleção é feita automaticamente por palavras-chave no título e na descrição de cada
+            edital, inclui chamadas abertas a todas as áreas e reúne os editais abertos e os sem prazo identificado.
+          </p>
+        )}
         {daAba.length === 0 ? (
           <p className={estilos.vazio}>
             Nenhum edital nesta situação{busca || orgao ? ' com esses filtros. Limpe a busca ou escolha outro órgão.' : '.'}
@@ -96,7 +143,7 @@ export function ListaEditais({ itens, orgaos, hoje }: { itens: ItemListagem[]; o
         ) : (
           <ol className={estilos.itens}>
             {daAba.map((e) => (
-              <Linha key={e.id} e={e} hoje={hoje} />
+              <Linha key={e.id} e={e} hoje={hoje} motivo={temaAtual && e.temas[temaAtual.id]} />
             ))}
           </ol>
         )}
@@ -105,7 +152,7 @@ export function ListaEditais({ itens, orgaos, hoje }: { itens: ItemListagem[]; o
   );
 }
 
-function Linha({ e, hoje }: { e: ItemListagem; hoje: string }) {
+function Linha({ e, hoje, motivo }: { e: ItemListagem; hoje: string; motivo?: string[] }) {
   const dias = e.fim ? diasEntre(hoje, e.fim) : undefined;
   const faixa = e.status === 'aberta' && dias !== undefined ? urgencia(dias) : undefined;
 
@@ -120,10 +167,19 @@ function Linha({ e, hoje }: { e: ItemListagem; hoje: string }) {
           <Link href={`/edital/${e.id}`}>{e.titulo}</Link>
         </h3>
         {e.detalhes.length > 0 && <p className={estilos.detalhes}>{e.detalhes.join('; ')}</p>}
+        {motivo && (
+          <p className={estilos.motivo}>
+            {motivo[0] === 'aberta a todas as áreas' ? 'Chamada aberta a todas as áreas' : `Relaciona-se com: ${motivo.join(', ')}`}
+          </p>
+        )}
         {e.alerta && <p className={estilos.alerta}>A situação na fonte diverge do prazo. Confira antes de submeter.</p>}
       </div>
       <div className={estilos.datas}>
         <Datas e={e} hoje={hoje} />
+      </div>
+      <div className={estilos.abrangencia}>
+        <MapaAbrangencia ufs={e.abrangencia} />
+        <span aria-hidden="true">{rotuloCurto(e.abrangencia)}</span>
       </div>
     </li>
   );

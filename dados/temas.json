@@ -1,0 +1,80 @@
+{
+  "ciidcmil": {
+    "nome": "CIIDCMIL",
+    "descricao": "Editais com temas que podem ser abordados pelas pesquisas do Centro Internacional de Inovação e Desenvolvimento de Cidades MIL (IEA-USP): alfabetização midiática e informacional, comunicação, desinformação, cidades e cidades inteligentes, cidadania e participação, educação, tecnologia e ética, diversidade.",
+    "pontosMinimos": 2,
+    "termosFortes": [
+      "alfabetização midiática",
+      "letramento midiático",
+      "letramento digital",
+      "educação midiática",
+      "midiátic",
+      "informacional",
+      "desinformaç",
+      "fake news",
+      "infodemi",
+      "comunicação",
+      "comunicar",
+      "divulgação científica",
+      "jornalis",
+      "cidade inteligente",
+      "cidades inteligentes",
+      "smart cit",
+      "cidades",
+      "urban",
+      "cidadania",
+      "participação social",
+      "governança",
+      "plataformas digitais",
+      "inclusão digital",
+      "transformação digital",
+      "tecnologias educacionais",
+      "inteligência artificial",
+      "ética",
+      "desigualdade",
+      "racial",
+      "raciais",
+      "diversidade",
+      "superdiversidade",
+      "religi",
+      "envelhecimento",
+      "pessoa idosa",
+      "pensamento crítico",
+      "observatório"
+    ],
+    "termosDeApoio": [
+      "educaç",
+      "ensino",
+      "professores",
+      "ciências humanas",
+      "ciências sociais",
+      "humanidades",
+      "políticas públicas",
+      "inovação social",
+      "sustentab",
+      "ODS",
+      "ESG",
+      "territóri",
+      "comunidade",
+      "software livre",
+      "dados abertos",
+      "indicadores",
+      "métricas",
+      "cultura",
+      "museus"
+    ],
+    "incluir": [],
+    "excluir": [],
+    "todasAsAreas": {
+      "area": [
+        "todas"
+      ],
+      "titulo": [
+        "bolsas de produtividade",
+        "eventos científicos",
+        "generic call",
+        "prêmio capes de tese"
+      ]
+    }
+  }
+}
