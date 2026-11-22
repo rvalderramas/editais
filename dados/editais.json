@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-21T16:45:41.556Z",
+  "atualizadoEm": "2026-11-22T17:07:17.094Z",
   "editais": [
     {
       "id": "capes-0645ed6c3b",
@@ -35,14 +35,14 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
+      "detalheVerificadoEm": "2026-11-22",
       "inscricoesFim": "2022-12-27",
       "evidencia": {
         "origem": "pagina",
         "url": "https://embrapii.org.br/chamadas-publicas/basic-funding-alliance-em-saude/",
         "trecho": "Apresentação de Propostas de BASIC FUNDING ALLIANCE – Saúde 27/12/2022"
-      },
-      "detalheVerificadoEm": "2026-11-19"
+      }
     },
     {
       "id": "capes-3582e5c0cd",
@@ -78,14 +78,14 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
+      "detalheVerificadoEm": "2026-11-22",
       "inscricoesFim": "2025-10-17",
       "evidencia": {
         "origem": "pagina",
         "url": "https://embrapii.org.br/chamadas-publicas/chamada-publica-unidades-embrapii-no-01-2025/",
         "trecho": "Submissão da proposta de credenciamento (Etapa 2) 17/10/2025"
-      },
-      "detalheVerificadoEm": "2026-11-19"
+      }
     },
     {
       "id": "embrapii-0813c63fce",
@@ -98,14 +98,14 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
+      "detalheVerificadoEm": "2026-11-22",
       "inscricoesFim": "2026-01-30",
       "evidencia": {
         "origem": "pagina",
         "url": "https://embrapii.org.br/chamadas-publicas/chamada-publica-unidades-embrapii-no-03-2025/",
         "trecho": "Submissão da proposta de credenciamento (Etapa 1) 30/01/2026"
-      },
-      "detalheVerificadoEm": "2026-11-19"
+      }
     },
     {
       "id": "capes-d3eb8db8be",
@@ -141,14 +141,14 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
+      "detalheVerificadoEm": "2026-11-22",
       "inscricoesFim": "2026-02-20",
       "evidencia": {
         "origem": "pagina",
         "url": "https://embrapii.org.br/chamadas-publicas/chamada-publica-para-capacitacao-em-maturidade-para-grupos-de-pesquisa-em-icts-da-regiao-norte-n01-2026/",
         "trecho": "Submissão da proposta 20/02/2026"
-      },
-      "detalheVerificadoEm": "2026-11-19"
+      }
     },
     {
       "id": "capes-e5c40d66db",
@@ -196,7 +196,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesInicio": "2026-02-06",
       "inscricoesFim": "2026-04-09",
       "evidencia": {
@@ -366,7 +366,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesInicio": "2026-03-25",
       "inscricoesFim": "2026-06-08",
       "evidencia": {
@@ -433,15 +433,15 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
+      "detalheVerificadoEm": "2026-11-22",
       "inscricoesInicio": "2026-06-08",
       "inscricoesFim": "2026-06-26",
       "evidencia": {
         "origem": "pagina",
         "url": "https://embrapii.org.br/chamadas-publicas/chamada-interna-no-01-2026-para-a-selecao-de-unidades-e-centros-de-competencia-embrapii-para-atuacao-no-programa-jornada-do-conhecimento-para-pesquisadores-de-incts/",
         "trecho": "Período de inscrições 08/06 a 26/06/2026"
-      },
-      "detalheVerificadoEm": "2026-11-19"
+      }
     },
     {
       "id": "capes-2efb053fbe",
@@ -506,7 +506,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesInicio": "2026-03-25",
       "inscricoesFim": "2026-07-03",
       "evidencia": {
@@ -631,7 +631,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesInicio": "2026-02-13",
       "inscricoesFim": "2026-08-31",
       "evidencia": {
@@ -663,7 +663,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesInicio": "2026-02-06",
       "inscricoesFim": "2026-09-02",
       "evidencia": {
@@ -695,7 +695,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesInicio": "2026-02-06",
       "inscricoesFim": "2026-09-18",
       "evidencia": {
@@ -728,7 +728,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesInicio": "2026-02-06",
       "inscricoesFim": "2026-09-30",
       "evidencia": {
@@ -760,7 +760,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesInicio": "2026-02-06",
       "inscricoesFim": "2026-10-02",
       "evidencia": {
@@ -865,7 +865,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesInicio": "2026-03-12",
       "inscricoesFim": "2026-10-14",
       "evidencia": {
@@ -991,7 +991,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesInicio": "2026-03-06",
       "inscricoesFim": "2026-10-23",
       "evidencia": {
@@ -1059,14 +1059,14 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-12",
-      "ultimaVerificacao": "2026-11-21",
-      "detalheVerificadoEm": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesFim": "2026-11-19",
       "evidencia": {
         "origem": "pagina",
         "url": "https://embrapii.org.br/chamadas-publicas/chamada-interna-no-03-para-projetos-de-alto-impacto-em-descarbonizacao-do-setor-de-aco-e-cimento-giz/",
         "trecho": "submissão. Assista ao webinário de apresentação da Chamada no link: https://www.youtube.com/watch?v=fNPtN8n71n8 *Última atualização em 19/11/2026"
-      }
+      },
+      "detalheVerificadoEm": "2026-11-21"
     },
     {
       "id": "fapesp-11d5897353",
@@ -1081,7 +1081,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesFim": "2026-11-23",
       "evidencia": {
         "origem": "lista",
@@ -1112,7 +1112,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesInicio": "2026-03-12",
       "inscricoesFim": "2026-11-25",
       "evidencia": {
@@ -1144,7 +1144,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesInicio": "2026-02-06",
       "inscricoesFim": "2026-11-30",
       "evidencia": {
@@ -1166,7 +1166,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesFim": "2026-12-03",
       "evidencia": {
         "origem": "lista",
@@ -1209,7 +1209,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesFim": "2026-12-04",
       "evidencia": {
         "origem": "lista",
@@ -1230,7 +1230,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesFim": "2026-12-08",
       "evidencia": {
         "origem": "lista",
@@ -1272,7 +1272,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesFim": "2026-12-09",
       "evidencia": {
         "origem": "lista",
@@ -1293,7 +1293,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesFim": "2026-12-11",
       "evidencia": {
         "origem": "lista",
@@ -1314,7 +1314,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesFim": "2026-12-11",
       "evidencia": {
         "origem": "lista",
@@ -1426,7 +1426,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesFim": "2027-01-06",
       "evidencia": {
         "origem": "lista",
@@ -1467,15 +1467,15 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
+      "detalheVerificadoEm": "2026-11-22",
       "inscricoesInicio": "2026-11-18",
       "inscricoesFim": "2027-01-08",
       "evidencia": {
         "origem": "pagina",
         "url": "https://embrapii.org.br/chamadas-publicas/chamada-publica-n02-2026-para-projetos-de-alto-impacto-em-economia-circular/",
         "trecho": "Submissão das pré-propostas pelas Unidades Embrapii De 18 de novembro 2026 a 08 de janeiro 2027"
-      },
-      "detalheVerificadoEm": "2026-11-19"
+      }
     },
     {
       "id": "fapesp-cf5e1b733d",
@@ -1490,7 +1490,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesFim": "2027-01-13",
       "evidencia": {
         "origem": "lista",
@@ -1511,7 +1511,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-16",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesFim": "2027-01-26",
       "evidencia": {
         "origem": "lista",
@@ -1554,7 +1554,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesFim": "2027-02-15",
       "evidencia": {
         "origem": "lista",
@@ -1575,7 +1575,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesFim": "2027-02-22",
       "evidencia": {
         "origem": "lista",
@@ -1596,7 +1596,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesFim": "2027-02-22",
       "evidencia": {
         "origem": "lista",
@@ -1617,7 +1617,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesFim": "2027-02-26",
       "evidencia": {
         "origem": "lista",
@@ -1660,7 +1660,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesFim": "2027-03-04",
       "evidencia": {
         "origem": "lista",
@@ -1725,7 +1725,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesFim": "2027-04-01",
       "evidencia": {
         "origem": "lista",
@@ -1769,7 +1769,7 @@
         "sc"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesFim": "2028-06-30",
       "fluxoContinuo": true,
       "evidencia": {
@@ -1791,7 +1791,7 @@
         "sc"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "inscricoesFim": "2028-06-30",
       "fluxoContinuo": true,
       "evidencia": {
@@ -1813,7 +1813,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21"
+      "ultimaVerificacao": "2026-11-22"
     },
     {
       "id": "fapesp-17648934f3",
@@ -1828,7 +1828,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "fluxoContinuo": true,
       "evidencia": {
         "origem": "lista",
@@ -1849,7 +1849,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "fluxoContinuo": true,
       "evidencia": {
         "origem": "lista",
@@ -1868,8 +1868,8 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
-      "detalheVerificadoEm": "2026-11-19"
+      "ultimaVerificacao": "2026-11-22",
+      "detalheVerificadoEm": "2026-11-22"
     },
     {
       "id": "embrapii-0ca261c99f",
@@ -1882,8 +1882,8 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
-      "detalheVerificadoEm": "2026-11-19"
+      "ultimaVerificacao": "2026-11-22",
+      "detalheVerificadoEm": "2026-11-22"
     },
     {
       "id": "embrapii-555ee316ce",
@@ -1896,8 +1896,8 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
-      "detalheVerificadoEm": "2026-11-19"
+      "ultimaVerificacao": "2026-11-22",
+      "detalheVerificadoEm": "2026-11-22"
     },
     {
       "id": "embrapii-40982fead5",
@@ -1910,8 +1910,8 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
-      "detalheVerificadoEm": "2026-11-19"
+      "ultimaVerificacao": "2026-11-22",
+      "detalheVerificadoEm": "2026-11-22"
     },
     {
       "id": "bndes-3e4aa695be",
@@ -1962,7 +1962,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "fluxoContinuo": true,
       "evidencia": {
         "origem": "lista",
@@ -1983,7 +1983,7 @@
         "sc"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "fluxoContinuo": true,
       "evidencia": {
         "origem": "lista",
@@ -2002,14 +2002,14 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
+      "detalheVerificadoEm": "2026-11-22",
       "fluxoContinuo": true,
       "evidencia": {
         "origem": "pagina",
         "url": "https://embrapii.org.br/chamadas-publicas/embrapii-e-fapesp-selecionam-pesquisa-para-financiamento/",
         "trecho": ", no período de cinco anos. As propostas serão recebidas em fluxo contínuo que se esgotem os recursos reservados p"
-      },
-      "detalheVerificadoEm": "2026-11-19"
+      }
     },
     {
       "id": "fapesp-8eaf42ac1d",
@@ -2024,7 +2024,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "fluxoContinuo": true,
       "evidencia": {
         "origem": "lista",
@@ -2047,7 +2047,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "fluxoContinuo": true,
       "evidencia": {
         "origem": "lista",
@@ -2131,7 +2131,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21"
+      "ultimaVerificacao": "2026-11-22"
     },
     {
       "id": "fapesp-1c594030be",
@@ -2146,7 +2146,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-21",
+      "ultimaVerificacao": "2026-11-22",
       "fluxoContinuo": true,
       "evidencia": {
         "origem": "lista",
