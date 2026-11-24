@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-23T21:17:03.688Z",
+  "atualizadoEm": "2026-11-24T20:09:05.814Z",
   "editais": [
     {
       "id": "capes-0645ed6c3b",
@@ -35,7 +35,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesFim": "2022-12-27",
       "evidencia": {
         "origem": "pagina",
@@ -78,7 +78,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesFim": "2025-10-17",
       "evidencia": {
         "origem": "pagina",
@@ -98,7 +98,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesFim": "2026-01-30",
       "evidencia": {
         "origem": "pagina",
@@ -141,7 +141,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesFim": "2026-02-20",
       "evidencia": {
         "origem": "pagina",
@@ -196,7 +196,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesInicio": "2026-02-06",
       "inscricoesFim": "2026-04-09",
       "evidencia": {
@@ -366,7 +366,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesInicio": "2026-03-25",
       "inscricoesFim": "2026-06-08",
       "evidencia": {
@@ -433,7 +433,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesInicio": "2026-06-08",
       "inscricoesFim": "2026-06-26",
       "evidencia": {
@@ -506,7 +506,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesInicio": "2026-03-25",
       "inscricoesFim": "2026-07-03",
       "evidencia": {
@@ -631,7 +631,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesInicio": "2026-02-13",
       "inscricoesFim": "2026-08-31",
       "evidencia": {
@@ -663,7 +663,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesInicio": "2026-02-06",
       "inscricoesFim": "2026-09-02",
       "evidencia": {
@@ -695,7 +695,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesInicio": "2026-02-06",
       "inscricoesFim": "2026-09-18",
       "evidencia": {
@@ -728,7 +728,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesInicio": "2026-02-06",
       "inscricoesFim": "2026-09-30",
       "evidencia": {
@@ -760,7 +760,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesInicio": "2026-02-06",
       "inscricoesFim": "2026-10-02",
       "evidencia": {
@@ -865,7 +865,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesInicio": "2026-03-12",
       "inscricoesFim": "2026-10-14",
       "evidencia": {
@@ -991,7 +991,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesInicio": "2026-03-06",
       "inscricoesFim": "2026-10-23",
       "evidencia": {
@@ -1059,34 +1059,13 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-12",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
+      "detalheVerificadoEm": "2026-11-24",
       "inscricoesFim": "2026-11-19",
       "evidencia": {
         "origem": "pagina",
         "url": "https://embrapii.org.br/chamadas-publicas/chamada-interna-no-03-para-projetos-de-alto-impacto-em-descarbonizacao-do-setor-de-aco-e-cimento-giz/",
         "trecho": "submissão. Assista ao webinário de apresentação da Chamada no link: https://www.youtube.com/watch?v=fNPtN8n71n8 *Última atualização em 19/11/2026"
-      },
-      "detalheVerificadoEm": "2026-11-21"
-    },
-    {
-      "id": "fapesp-11d5897353",
-      "fonte": "fapesp",
-      "orgao": "FAPESP",
-      "titulo": "Aperfeiçoamento de especialistas que atuam em museus e instituições de salvaguarda e comunicação de acervos",
-      "link": "https://fapesp.br/18387",
-      "area": "Infraestrutura de pesquisa",
-      "modalidade": "PAIP",
-      "status": "aberta",
-      "abrangencia": [
-        "sp"
-      ],
-      "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
-      "inscricoesFim": "2026-11-23",
-      "evidencia": {
-        "origem": "lista",
-        "url": "https://fapesp.br/chamadas/",
-        "trecho": "submissão de propostas: 23/11/2026"
       }
     },
     {
@@ -1112,7 +1091,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesInicio": "2026-03-12",
       "inscricoesFim": "2026-11-25",
       "evidencia": {
@@ -1144,7 +1123,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesInicio": "2026-02-06",
       "inscricoesFim": "2026-11-30",
       "evidencia": {
@@ -1166,7 +1145,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesFim": "2026-12-03",
       "evidencia": {
         "origem": "lista",
@@ -1209,7 +1188,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesFim": "2026-12-04",
       "evidencia": {
         "origem": "lista",
@@ -1230,7 +1209,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesFim": "2026-12-08",
       "evidencia": {
         "origem": "lista",
@@ -1272,7 +1251,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesFim": "2026-12-09",
       "evidencia": {
         "origem": "lista",
@@ -1293,7 +1272,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesFim": "2026-12-11",
       "evidencia": {
         "origem": "lista",
@@ -1314,7 +1293,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesFim": "2026-12-11",
       "evidencia": {
         "origem": "lista",
@@ -1426,7 +1405,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesFim": "2027-01-06",
       "evidencia": {
         "origem": "lista",
@@ -1467,7 +1446,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesInicio": "2026-11-18",
       "inscricoesFim": "2027-01-08",
       "evidencia": {
@@ -1490,7 +1469,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesFim": "2027-01-13",
       "evidencia": {
         "origem": "lista",
@@ -1511,7 +1490,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-16",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesFim": "2027-01-26",
       "evidencia": {
         "origem": "lista",
@@ -1554,7 +1533,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesFim": "2027-02-15",
       "evidencia": {
         "origem": "lista",
@@ -1575,7 +1554,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesFim": "2027-02-22",
       "evidencia": {
         "origem": "lista",
@@ -1596,7 +1575,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesFim": "2027-02-22",
       "evidencia": {
         "origem": "lista",
@@ -1617,7 +1596,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesFim": "2027-02-26",
       "evidencia": {
         "origem": "lista",
@@ -1660,7 +1639,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesFim": "2027-03-04",
       "evidencia": {
         "origem": "lista",
@@ -1688,6 +1667,27 @@
         "origem": "lista",
         "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
         "trecho": "Inscrições: 11/11/2026 a 12/03/2027"
+      }
+    },
+    {
+      "id": "fapesp-fb339c5ad1",
+      "fonte": "fapesp",
+      "orgao": "FAPESP",
+      "titulo": "Chamada de Propostas FAPESP - CERN 2026",
+      "link": "https://fapesp.br/18531",
+      "area": "Física, instrumentação científica, ciência de dados, computação",
+      "modalidade": "Auxílio à Pesquisa - Temático e Auxílio à Pesquisa Jovem Pesquisador - Fase 1",
+      "status": "aberta",
+      "abrangencia": [
+        "sp"
+      ],
+      "primeiraVezVisto": "2026-11-24",
+      "ultimaVerificacao": "2026-11-24",
+      "inscricoesFim": "2027-03-30",
+      "evidencia": {
+        "origem": "lista",
+        "url": "https://fapesp.br/chamadas/",
+        "trecho": "submissão: 30/03/2027"
       }
     },
     {
@@ -1725,7 +1725,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesFim": "2027-04-01",
       "evidencia": {
         "origem": "lista",
@@ -1769,7 +1769,7 @@
         "sc"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesFim": "2028-06-30",
       "fluxoContinuo": true,
       "evidencia": {
@@ -1791,7 +1791,7 @@
         "sc"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "inscricoesFim": "2028-06-30",
       "fluxoContinuo": true,
       "evidencia": {
@@ -1813,7 +1813,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23"
+      "ultimaVerificacao": "2026-11-24"
     },
     {
       "id": "fapesp-17648934f3",
@@ -1828,7 +1828,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "fluxoContinuo": true,
       "evidencia": {
         "origem": "lista",
@@ -1849,7 +1849,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "fluxoContinuo": true,
       "evidencia": {
         "origem": "lista",
@@ -1868,7 +1868,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "detalheVerificadoEm": "2026-11-22"
     },
     {
@@ -1882,7 +1882,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "detalheVerificadoEm": "2026-11-22"
     },
     {
@@ -1896,7 +1896,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "detalheVerificadoEm": "2026-11-22"
     },
     {
@@ -1910,7 +1910,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "detalheVerificadoEm": "2026-11-22"
     },
     {
@@ -1925,7 +1925,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "detalheVerificadoEm": "2026-11-23"
     },
     {
@@ -1940,7 +1940,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "detalheVerificadoEm": "2026-11-23"
     },
     {
@@ -1955,7 +1955,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "detalheVerificadoEm": "2026-11-23"
     },
     {
@@ -1971,7 +1971,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "fluxoContinuo": true,
       "evidencia": {
         "origem": "lista",
@@ -1992,7 +1992,7 @@
         "sc"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "fluxoContinuo": true,
       "evidencia": {
         "origem": "lista",
@@ -2011,7 +2011,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "fluxoContinuo": true,
       "evidencia": {
         "origem": "pagina",
@@ -2033,7 +2033,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "fluxoContinuo": true,
       "evidencia": {
         "origem": "lista",
@@ -2056,7 +2056,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "fluxoContinuo": true,
       "evidencia": {
         "origem": "lista",
@@ -2140,7 +2140,7 @@
         "br"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23"
+      "ultimaVerificacao": "2026-11-24"
     },
     {
       "id": "fapesp-1c594030be",
@@ -2155,7 +2155,7 @@
         "sp"
       ],
       "primeiraVezVisto": "2026-11-10",
-      "ultimaVerificacao": "2026-11-23",
+      "ultimaVerificacao": "2026-11-24",
       "fluxoContinuo": true,
       "evidencia": {
         "origem": "lista",
